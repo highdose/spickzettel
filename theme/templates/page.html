@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
+
+{% block header %}
+<h1 class="ml-25%">{{ page.title }}</h1>
+{% endblock %}
+
+{% block navigation %}
+<nav class="pl-4 w-64 absolute">
+  {% for p in pages %}
+  <div class="p-2 {% if p==page %} active {% endif %}"><a
+      href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></div>
+  {% endfor %}
+  {% if DISPLAY_CATEGORIES_ON_MENU %}
+  {% for cat, null in categories %}
+  <div{% if cat==category %} class="active" {% endif %}><a
+      href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></div>
+    {% endfor %}
+    {% endif %}
+</nav>
+{% endblock %}
+{% block head %}
+{{ super() }}
+
+{% import 'translations.html' as translations with context %}
+{% if translations.entry_hreflang(page) %}
+{{ translations.entry_hreflang(page) }}
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<div class="ml-25% mt-2">
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(page) }}
+
+  {{ page.content }}
+
+  {% if page.modified %}
+  <p class="mt-4">
+    Letzte Überarbeitung: {{ page.locale_modified }}
+  </p>
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block footer %}
+{% endblock %}
