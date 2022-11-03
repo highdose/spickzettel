@@ -7,38 +7,23 @@
   <meta charset="utf-8" />
   <meta name="generator" content="Pelican" />
   <link rel="stylesheet"
-    href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css" />
+        href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css" />
   {% endblock head %}
 </head>
 
 <body class="bg-amber-100">
-  <div class="max-w-5xl mx-auto">
+  <div class="max-w-7xl mx-auto">
+
     <header class="text-4xl p-4 font-semibold bg-red-400">
       {% block header %}{% endblock %}
     </header><!-- /#banner -->
+
     {% block navigation %}
-    <nav>
-      <ul class="ml-4">
-        {% for title, link in MENUITEMS %}
-        <li><a href="{{ link }}">{{ title }}</a></li>
-        {% endfor %}
-        {% if DISPLAY_PAGES_ON_MENU %}
-        {% for p in pages %}
-        <li class="p-2 {% if p==page %} active {% endif %}"><a
-            href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-        {% endfor %}
-        {% endif %}
-        {% if DISPLAY_CATEGORIES_ON_MENU %}
-        {% for cat, null in categories %}
-        <li{% if cat==category %} class="active" {% endif %}><a
-            href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-          {% endfor %}
-          {% endif %}
-      </ul>
-    </nav>
     {% endblock navigation %}
+
     {% block content %}
     {% endblock %}
+
     {% block footer %}
     {% endblock %}
   </div>

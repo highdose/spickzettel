@@ -12,13 +12,14 @@ h2 {
 }
 
 p {
-    @apply leading-normal pb-2 text-lg
+    @apply leading-normal pb-2
 }
 
 ul {
     list-style: disc outside;
     margin-left: 3ex;
 }
+
 
 .checklist a {
     @apply text-indigo-800 underline

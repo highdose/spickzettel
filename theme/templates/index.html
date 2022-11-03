@@ -3,8 +3,7 @@
 {% block header %}
 <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
 {% endblock %}
-{% block navigation %}
-{% endblock %}
+
 {% block content %}
 <section class="max-w-lg">
     <p>Merklisten für stressige Notfälle</p>
@@ -12,7 +11,7 @@
 <section class="max-w-lg">
     {% for p in pages %}
     <li class="p-2 {% if p==page %} active {% endif %}"><a
-            href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+           href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
     {% endfor %}
 </section><!-- /#content -->
 {% endblock content %}

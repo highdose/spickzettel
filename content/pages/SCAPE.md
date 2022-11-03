@@ -13,8 +13,8 @@ Authors: Johannes Ammon
 {{ checklist([
 "i.v.-Zugang; arteriellen Zugang erwägen.",
 "NIV mit 100% O2 und den nebenstehenden Einstellungen.",
-"Nitroglycerin 200-400 µg i.v.-Bolus über 1 min geben und alle 2 min wiederholen, wenn der Blutdruck hoch bleibt.",
-"Nitroglycerin-Perfusor Start mit 100 µg/min (6 mg/h), titrieren bis zu 400 µg/min (24 mg/h).",
+"Nitroglycerin 200-400&nbsp;µg i.v.-Bolus über 1&nbsp;min geben und alle 2&nbsp;min wiederholen, wenn der Blutdruck hoch bleibt.",
+"Nitroglycerin-Perfusor Start mit 100&nbsp;µg/min (6&nbsp;mg/h), titrieren bis zu 400&nbsp;µg/min (24&nbsp;mg/h).",
 "Wenn sich eine Hypotonie entwickelt, Nitroglycerin reduzieren/stoppen, evtl. 250 ml Volumenbolus geben.",
 "Frühe Diuretika vermeiden.",
 "Morphin vermeiden.",
@@ -29,7 +29,7 @@ Der Patient präsentiert sich mit plötzlicher Atemnot und starker Blutdruckerh�
 
 Das Behandlungsprinzip ist, mit NIV die Atmung zu unterstützen, mit i.v.-Nitraten die Nachlast zu reduzieren und die Ursachen zu behandeln. Ziel ist es, eine endotracheale Intubation zu vermeiden. Sie ist nur bei wenigen dieser Patienten nötig und birgt eigene Risiken und Probleme.
 
-**NIV-Einstellungen**: Die Patienten benötigen in erster Linie PEEP (CPAP/EPAP). Beginn bei 5 cmH2O, titrieren bis zu 15 cmH2O. ASB/IPAP kann optional eingestellt werden.
+**NIV-Einstellungen**: Die Patienten benötigen in erster Linie PEEP (CPAP/EPAP). Beginn bei 5&nbsp;cmH2O, titrieren bis zu 15&nbsp;cmH2O. ASB/IPAP kann optional eingestellt werden.
 
 Niedrig dosiertes Nitroglycerin wirkt sich in erster Linie auf die Vorlast aus, so dass hoch dosiertes Nitroglycerin erforderlich ist, um die Nachlast zu reduzieren. Die Patienten sind nicht akut volumenüberladen und benötigen keine Diuretika.
 
