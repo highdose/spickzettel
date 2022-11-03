@@ -7,6 +7,7 @@ THEME = "theme"
 TIMEZONE = "Europe/Berlin"
 STATIC_PATHS = []
 JINJA2CONTENT_TEMPLATES = ["../tools"]
+OUTPUT_PATH = "docs/"
 DEFAULT_DATE_FORMAT = "%d.%m.%Y"
 
 DEFAULT_LANG = "de"
