@@ -4,18 +4,21 @@ Modified: 2022-10-30 12:00
 Slug: anaphylaxie
 Authors: Johannes Ammon
 
-{% from 'tools.html' import checklist %}
+> Mögliche <strong>Auslöser entfernen/beenden</strong>! Hilfe rufen!
 
-{{ checklist([
-"Mögliche <strong>Auslöser entfernen/beenden</strong>! Hilfe rufen!",
-"Bei Gefährdung der Atemwege oder drohender Obstruktion frühzeitig an <a href='#intubation'>Intubation</a> denken. Ein Ödem kann schnell fortschreiten.",
-"Geben Sie hochdosiert Sauerstoff.",
-"Zwei großlumige Venenzugänge, infundieren Sie mindestens 20&nbsp;ml/kg kristalloider Lösung.",
-"Geben Sie Adrenalin i.m. Wenn notwendig, alle 5 bis 10&nbsp;min wiederholen. <a href='#dosis'>Dosierung</a>",
-"Wenn die Symptome fortbestehen, beginnen Sie mit einer Adrenalin-Infusion und erwägen Sie das Legen eines arteriellen Zugangs.",
-"Reagiert der Patient immer noch nicht, ziehen Sie die unten aufgeführten <a href='#alternativen'>alternativen Mittel</a> in Betracht.",
-"Beginnen Sie mit der <a href='#zusatz'>Zusatztherapie</a>, sobald der Patient hämodynamisch stabil ist.",
-]) }}
+> Bei Gefährdung der Atemwege oder drohender Obstruktion frühzeitig an <a href='#intubation'>Intubation</a> denken. Ein Ödem kann schnell fortschreiten.
+
+> Geben Sie hochdosiert Sauerstoff.
+
+> Zwei großlumige Venenzugänge, infundieren Sie mindestens 20&nbsp;ml/kg kristalloider Lösung.
+
+> Geben Sie Adrenalin i.m. Wenn notwendig, alle 5 bis 10&nbsp;min wiederholen. <a href='#dosis'>Dosierung</a>
+
+> Wenn die Symptome fortbestehen, beginnen Sie mit einer Adrenalin-Infusion und erwägen Sie das Legen eines arteriellen Zugangs.
+
+> Reagiert der Patient immer noch nicht, ziehen Sie die unten aufgeführten <a href='#alternativen'>alternativen Mittel</a> in Betracht.
+
+> Beginnen Sie mit der <a href='#zusatz'>Zusatztherapie</a>, sobald der Patient hämodynamisch stabil ist.
 
 ## <span id="intubation">Intubation</span>
 

@@ -4,24 +4,31 @@ Modified: 2022-10-29 12:00
 Slug: scape
 Authors: Johannes Ammon
 
-{% from 'tools.html' import bigfatbox, checklist %}
-
 <!-- # Akutes, adrenerges Lungenödem (Sympathetic crashing acute pulmonary edema - SCAPE) -->
 
-{{ bigfatbox("Für hypertensive Patienten im schweren Lungenödem" ) }}
+<div class="my-6 p-6 font-semibold text-xl border-solid border-2">
+    Für hypertensive Patienten im schweren Lungenödem
+</div>
 
-{{ checklist([
-"i.v.-Zugang; arteriellen Zugang erwägen.",
-"NIV mit 100% O2 und den nebenstehenden Einstellungen.",
-"Nitroglycerin 200-400&nbsp;µg i.v.-Bolus über 1&nbsp;min geben und alle 2&nbsp;min wiederholen, wenn der Blutdruck hoch bleibt.",
-"Nitroglycerin-Perfusor Start mit 100&nbsp;µg/min (6&nbsp;mg/h), titrieren bis zu 400&nbsp;µg/min (24&nbsp;mg/h).",
-"Wenn sich eine Hypotonie entwickelt, Nitroglycerin reduzieren/stoppen, evtl. 250 ml Volumenbolus geben.",
-"Frühe Diuretika vermeiden.",
-"Morphin vermeiden.",
-"Bettseitiges Echo/Ultraschall zur Evaluation des Herz-Kreislauf-System.",
-"Serielle EKGs und Herzenzyme mit der Frage nach Myokardischämie.",
-"Aufnahme auf die Intensivstation oder CCU, sobald der Patient stabil ist.",
-]) }}
+> i.v.-Zugang; arteriellen Zugang erwägen.
+
+> NIV mit 100% O2 und den nebenstehenden Einstellungen.
+
+> Nitroglycerin 200-400&nbsp;µg i.v.-Bolus über 1&nbsp;min geben und alle 2&nbsp;min wiederholen, wenn der Blutdruck hoch bleibt.
+
+> Nitroglycerin-Perfusor Start mit 100&nbsp;µg/min (6&nbsp;mg/h), titrieren bis zu 400&nbsp;µg/min (24&nbsp;mg/h).
+
+> Wenn sich eine Hypotonie entwickelt, Nitroglycerin reduzieren/stoppen, evtl. 250 ml Volumenbolus geben.
+
+> Frühe Diuretika vermeiden.
+
+> Morphin vermeiden.
+
+> Bettseitiges Echo/Ultraschall zur Evaluation des Herz-Kreislauf-System.
+
+> Serielle EKGs und Herzenzyme mit der Frage nach Myokardischämie.
+
+> Aufnahme auf die Intensivstation oder CCU, sobald der Patient stabil ist.
 
 Das akute, adrenerge Lungenödem ist eine Extremform im Spektrum des akuten Lungenödems.
 
@@ -39,7 +46,7 @@ Diuretika sollten nicht frühzeitig gegeben werden. Eine akute Diurese mit Furos
 
 Die bettseitige Echokardiographie kann die Ventrikel- und Klappenfunktion bestimmen und das Lungenödem nachweisen.
 
-> Das akute Lungenödem hat eine hohe Mortalität, aber das Akute **Adrenerge** Lungenödem ist ein gut behandelbarer Notfall. Eine frühe Erkennung und schnelle Behandlung kann eine Intubation und Intensivbehandlung und die damit verbundene Morbidität und Mortalität vermeiden.
+<div class="my-3 p-3 text-lg border-solid border-2"> Das akute Lungenödem hat eine hohe Mortalität, aber das Akute <strong>Adrenerge</strong> Lungenödem ist ein gut behandelbarer Notfall. Eine frühe Erkennung und schnelle Behandlung kann eine Intubation und Intensivbehandlung und die damit verbundene Morbidität und Mortalität vermeiden.</div>
 
 Ursachen für ein akutes Lungenödem, die eine sofortige Intervention erfordern:
 

@@ -6,8 +6,9 @@
   <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
   <meta charset="utf-8" />
   <meta name="generator" content="Pelican" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet"
-        href="{{ THEME_STATIC_DIR }}/css/main.css" />
+        href="/{{ THEME_STATIC_DIR }}/css/main.css" />
   {% endblock head %}
 </head>
 
@@ -17,12 +18,13 @@
     <header class="text-4xl p-4 font-semibold bg-red-400">
       {% block header %}{% endblock %}
     </header><!-- /#banner -->
+    <div class="md:grid md:grid-cols-[minmax(260px,_25%)_1fr]">
+      {% block navigation %}
+      {% endblock navigation %}
 
-    {% block navigation %}
-    {% endblock navigation %}
-
-    {% block content %}
-    {% endblock %}
+      {% block content %}
+      {% endblock %}
+    </div>
 
     {% block footer %}
     {% endblock %}

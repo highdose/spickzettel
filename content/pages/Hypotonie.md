@@ -4,19 +4,25 @@ Modified: 2022-11-01 12:00
 Slug: hypotonie
 Authors: Johannes Ammon
 
-{% from 'tools.html' import checklist %}
+> Kontrolle von Atemwege, Atmung, Kreislauf und Bewusstseinszustand (ABCD).
 
-{{ checklist([
-"Kontrolle von Atemwege, Atmung, Kreislauf und Bewusstseinszustand (ABCD).",
-"Atemwegssicherung, Herz-Lungen-Wiederbelebung falls erforderlich. ",
-"Herz-Kreislauf-Monitoring einleiten.",
-"O2-Gabe mit SpO2-Ziel > 90 %. ",
-"Evtl. Hilfe holen, Maßnahmen je nach Kompetenz delegieren. ",
-"Schneller i.v.-Zugang und empirische Flüssigkeitsgabe. ",
-"EKG, Notfalllabor und BGA durchführen.",
-"Ultraschall-Diagnostik nach unten stehendem Schema.",
-"Gezielte Therapie abhängig von diesen Befunden.",
-]) }}
+> Atemwegssicherung, Herz-Lungen-Wiederbelebung falls erforderlich.
+
+> Herz-Kreislauf-Monitoring einleiten.
+
+> O2-Gabe mit SpO2-Ziel >&nbsp;90 %.
+
+> Evtl. Hilfe holen, Maßnahmen je nach Kompetenz delegieren.
+
+> Schneller i.v.-Zugang und empirische Flüssigkeitsgabe.
+
+> EKG, Notfalllabor und BGA durchführen.
+
+> Ultraschall-Diagnostik nach unten stehendem Schema.
+
+> Gezielte Therapie abhängig von diesen Befunden.
+
+<span id="RUSH"></span>
 
 ## RUSH (Rapid Ultrasound for Shock and Hypotension)
 

@@ -5,13 +5,14 @@
 {% endblock %}
 
 {% block content %}
-<section class="max-w-lg">
+<section class="max-w-lg text-2xl px-1">
     <p>Merklisten für stressige Notfälle</p>
 </section>
-<section class="max-w-lg">
+<section class="max-w-lg text-2xl px-1">
     {% for p in pages %}
-    <li class="p-2 {% if p==page %} active {% endif %}"><a
-           href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+    <li class="p-2 odd:bg-amber-200 even:bg-amber-100">
+        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+    </li>
     {% endfor %}
 </section><!-- /#content -->
 {% endblock content %}

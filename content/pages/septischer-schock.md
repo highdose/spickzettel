@@ -4,22 +4,27 @@ Modified: 2022-11-02 12:00
 Slug: septischer-schock
 Authors: Johannes Ammon
 
-{% from 'tools.html' import checklist %}
+> Septischer Schock: Infektion, Hypotonie und Gewebehypoperfusion.
 
-{{ checklist([
-"Septischer Schock: Infektion, Hypotonie und Gewebehypoperfusion.",
-"Sauerstoffgabe mit SpO2-Ziel ≥ 90%.",
-"Notfalllabor, Blutkulturen, Urinkultur. Sofort Breitspektrumantibiotika in hoher Initialdosis.",
-"Volumentherapie: Kristalloide als Bolus 500-1000&nbsp;ml, dann insgesamt auf bis zu 20-30&nbsp;ml/kg ergänzen, je nach Monitoringparameter und Echobefund.",
-"Indikation für arteriellen Zugang und ZVK prüfen.",
-"Kontrolle des Ansprechen auf die Therapie anhand von stündlicher Urinausscheidung und Laktatkontrollen.",
-"Katecholamine geben, wenn der MAP < 65&nbsp;mmHg bleibt.",
-"Fokussierte Echokardiographie/Sonographie auf hämodynamischen Status und mögliche Infektionsherde durchführen.",
-"Bluttransfusion i.d.R. erst bei Hb <= 7&nbsp;g/dl.",
-"Gezielte bildgebende Diagnostik, Zuziehung weiterer Fachabteilungen für die weitere Versorgung und Focuskontrolle.",
-]) }}
+> Sauerstoffgabe mit SpO2-Ziel ≥&nbsp;90%.
 
-Die diagnostische Trias basiert auf vermuteten oder dokumentierten Anzeichen einer Infektion, Hypotonie (MAP ≤ 65&nbsp;mmHg nach angemessener initialer Flüssigkeitszufuhr) und Gewebehypoperfusion (Laktat > 2&nbsp;mmol/L).
+> Notfalllabor, Blutkulturen, Urinkultur. Sofort Breitspektrumantibiotika in hoher Initialdosis.
+
+> Volumentherapie: Kristalloide als Bolus 500 bis 1000&nbsp;ml, dann insgesamt auf bis zu 20-30&nbsp;ml/kg ergänzen, je nach Monitoringparameter und Echobefund.
+
+> Indikation für arteriellen Zugang und ZVK prüfen.
+
+> Kontrolle des Ansprechens auf die Therapie anhand von stündlicher Urinausscheidung und Laktatkontrollen.
+
+> Katecholamine geben, wenn der MAP <&nbsp;65&nbsp;mmHg bleibt.
+
+> Fokussierte Echokardiographie/<wbr>Sonographie auf hämodynamischen Status und mögliche Infektionsherde durchführen.
+
+> Bluttransfusion i.d.R. erst bei Hb <= 7&nbsp;g/dl.
+
+> Gezielte bildgebende Diagnostik, Zuziehung weiterer Fachabteilungen für die weitere Versorgung und Focuskontrolle.
+
+Die diagnostische Trias basiert auf vermuteten oder dokumentierten Anzeichen einer Infektion, Hypotonie (MAP ≤&nbsp;65&nbsp;mmHg nach angemessener initialer Flüssigkeitszufuhr) und Gewebehypoperfusion (Laktat >&nbsp;2&nbsp;mmol/L).
 
 Ein septischer Schock ist ein Notfall, der eine rasche klinische Diagnose und Behandlung erfordert. Die Prioritäten sind Volumen, Vasopressoren und Lokalisierung der Ursache. Eine häufige Reevaluierung ist unerlässlich.
 
@@ -31,7 +36,7 @@ Es sollten sofort Blut- und Körperflüssigkeitskulturen angelegt werden. Breitb
 
 Die Vasopressor-Therapie kann über einen großkalibrigen, peripheren Venenzugang (nicht Hand oder Handgelenk) begonnen werden. So bald wie möglich sollte dies aber auf einen zentralvenösen Zugang umgestellt werden. Viele Abteilungen haben dazu eigene Richtlinien.
 
-Noradrenalin und evtl. auch Adrenalin sind gute erste Vasopressoren (vor allem bei unzureichendem Herzzeitvolumen). Vasopressin hinzufügen, wenn die Noradrenalin-Dosis zu hoch wird (> 20&nbsp;µg/min).
+Noradrenalin und evtl. auch Adrenalin sind gute erste Vasopressoren (vor allem bei unzureichendem Herzzeitvolumen). Vasopressin hinzufügen, wenn die Noradrenalin-Dosis zu hoch wird (>&nbsp;20&nbsp;µg/min).
 
 Ziehen Sie Steroide in Betracht, wenn die Hypotonie trotz mehrerer Vasopressoren anhält. Streben Sie einen höheren Ziel-MAP an, wenn der Patient normalerweise hypertensiv ist.
 
@@ -39,7 +44,7 @@ Ziehen Sie Steroide in Betracht, wenn die Hypotonie trotz mehrerer Vasopressoren
 
 ## Inotrope Therapie
 
-Dobutamin kann in Betracht gezogen werden, bei Anzeichen einer signifikanten myokardialen Dysfunktion und anhaltende Anzeichen einer Hypoperfusion trotz angemessenem intravaskulärem Volumen und obwohl ein adäquater MAP erreicht wurde. Supranormale kardiale Indizes und Blutdruckwerte sollten dabei nicht angestrebt werden. Adrenalin in inotropen Dosen (0,01-0,08&nbsp;µg/kg/min) kann ebenfalls in Betracht gezogen werden.
+Dobutamin kann in Betracht gezogen werden, bei Anzeichen einer signifikanten myokardialen Dysfunktion und anhaltende Anzeichen einer Hypoperfusion trotz angemessenem intravaskulärem Volumen und obwohl ein adäquater MAP erreicht wurde. Supranormale kardiale Indizes und Blutdruckwerte sollten dabei nicht angestrebt werden. Adrenalin in inotropen Dosen (0,01 bis 0,08&nbsp;µg/kg/min) kann ebenfalls in Betracht gezogen werden.
 
 ## Volumentherapie
 

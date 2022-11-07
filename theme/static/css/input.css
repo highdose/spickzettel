@@ -4,9 +4,24 @@
 
 
 blockquote {
-    @apply my-3 p-3 text-lg border-solid border-2
+    @apply text-xl md:text-2xl list-decimal list-outside ml-8 mb-3;
+    counter-reset: paragraph;
+    position: relative;
 }
 
+blockquote a, .content a {
+    @apply text-indigo-800 underline
+}
+blockquote p {
+    padding-left: 0px;
+}
+blockquote p:before {
+    content: counter(paragraph) ".";
+    counter-increment: paragraph;
+    position: absolute;
+    left: -36px;
+    text-align: right;
+}
 h2 {
     @apply text-lg py-2 mt-2 font-semibold
 }
@@ -18,9 +33,4 @@ p {
 ul {
     list-style: disc outside;
     margin-left: 3ex;
-}
-
-
-.checklist a {
-    @apply text-indigo-800 underline
 }
