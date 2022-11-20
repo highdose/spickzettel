@@ -1,6 +1,4 @@
 Title: Akutes, adrenerges Lungenödem
-Date: 2022-10-29 12:00
-Modified: 2022-10-29 12:00
 Slug: scape
 Authors: Johannes Ammon
 
@@ -30,9 +28,10 @@ Authors: Johannes Ammon
 
 > Aufnahme auf die Intensivstation oder CCU, sobald der Patient stabil ist.
 
+<hr/>
 Das akute, adrenerge Lungenödem ist eine Extremform im Spektrum des akuten Lungenödems.
 
-Der Patient präsentiert sich mit plötzlicher Atemnot und starker Blutdruckerhöhung durch überschießende, adrenerge Stimulation. Man beobachtet ein schweres Lungenödem, aber nur geringe periphere Ödeme. Das Hauptproblem ist die sehr hohe Nachlast.
+Der Patient präsentiert sich mit plötzlicher Atemnot und starker Blutdruckerhöhung durch überschießende, adrenerge Stimulation. Man sieht ein schweres Lungenödem, aber nur geringe periphere Ödeme. Das Hauptproblem ist die sehr hohe Nachlast.
 
 Das Behandlungsprinzip ist, mit NIV die Atmung zu unterstützen, mit i.v.-Nitraten die Nachlast zu reduzieren und die Ursachen zu behandeln. Ziel ist es, eine endotracheale Intubation zu vermeiden. Sie ist nur bei wenigen dieser Patienten nötig und birgt eigene Risiken und Probleme.
 

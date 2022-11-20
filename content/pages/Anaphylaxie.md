@@ -1,25 +1,25 @@
 Title: Anaphylaktischer Schock
-Date: 2022-10-30 12:00
-Modified: 2022-10-30 12:00
 Slug: anaphylaxie
 Authors: Johannes Ammon
 
-> Mögliche <strong>Auslöser entfernen/beenden</strong>! Hilfe rufen!
+> Mögliche <strong>Auslöser entfernen/&ZeroWidthSpace;beenden</strong>!&emsp;Hilfe&nbsp;rufen!
 
 > Bei Gefährdung der Atemwege oder drohender Obstruktion frühzeitig an <a href='#intubation'>Intubation</a> denken. Ein Ödem kann schnell fortschreiten.
 
-> Geben Sie hochdosiert Sauerstoff.
+> Gib hochdosiert Sauerstoff.
 
-> Zwei großlumige Venenzugänge, infundieren Sie mindestens 20&nbsp;ml/kg kristalloider Lösung.
+> Zwei großlumige Venenzugänge, infundiere rasch 1 bis 3 Liter kristalloider Lösung (bei Kindern 20&nbsp;ml/kg).
 
-> Geben Sie Adrenalin i.m. Wenn notwendig, alle 5 bis 10&nbsp;min wiederholen. <a href='#dosis'>Dosierung</a>
+> Gib Adrenalin i.m. Wenn notwendig, alle 5 bis 10&nbsp;min wiederholen. <a href='#dosis'>&rarr;&nbsp;Dosierung</a><br/>
+> Evtl. zusätzlich Adrenalin-Inhalation.
 
-> Wenn die Symptome fortbestehen, beginnen Sie mit einer Adrenalin-Infusion und erwägen Sie das Legen eines arteriellen Zugangs.
+> Wenn die Symptome fortbestehen, beginne mit einer Adrenalin-Infusion und erwäge einen arteriellen Zugang.
 
-> Reagiert der Patient immer noch nicht, ziehen Sie die unten aufgeführten <a href='#alternativen'>alternativen Mittel</a> in Betracht.
+> Reagiert der Patient immer noch nicht, ziehe die unten aufgeführten <a href='#alternativen'>alternativen Mittel</a> in Betracht.
 
-> Beginnen Sie mit der <a href='#zusatz'>Zusatztherapie</a>, sobald der Patient hämodynamisch stabil ist.
+> Beginne mit der <a href='#zusatz'>Zusatztherapie</a>, sobald der Patient hämodynamisch stabil ist.
 
+<hr/>
 ## <span id="intubation">Intubation</span>
 
 Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B vorbereiten. Wenn es die Zeit erlaubt, ggf. Wachintubation erwägen.
@@ -33,12 +33,12 @@ Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B v
 
 ## Alternativen bei schlechtem Ansprechen auf die konventionelle Therapie<span id="alternativen"></span>
 
-- Adrenalin 100&nbsp;µg i.v.-Bolus
-- Noradrenalin-Infusion 0,1&nbsp;µg/kg/min
-- Vasopressin 0,01-0,04&nbsp;Einheiten/min oder 2&nbsp;U als Bolus (0,03&nbsp;U/kg)
-- Glucagon 1&nbsp;mg intravenös über 5&nbsp;Minuten (zur Umkehrung der Betablockerwirkung)
+- Adrenalin 100&nbsp;µg i.v.-Bolus (1&nbsp;mg Adrenalin in 100&nbsp;ml NaCl 0,9%, davon 10&nbsp;ml).
+- Noradrenalin-Infusion 0,1&nbsp;µg/kg/min.
+- Vasopressin 0,01-0,03&nbsp;U/min.
+- Glucagon 1&nbsp;mg intravenös über 5&nbsp;Minuten (zur Umkehrung der Betablockerwirkung),
 
-    bei Bedarf Infusion mit 5-15&nbsp;µg/min starten (häufig Übelkeit/Erbrechen)
+    bei Bedarf Infusion mit 5-15&nbsp;µg/min starten (häufig Übelkeit/Erbrechen).
 
 - Methylenblau 1,5-2&nbsp;mg/kg i.v.-Bolus,
 
@@ -46,14 +46,13 @@ Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B v
 
 ## Begleittherapie, wenn die Hämodynamik stabil ist<span id="zusatz"></span>
 
-- H1-Blocker: Dimetinden (Fenistil(R)) 0,1&nbsp;mg/kg KG oder Clemastin (Tavegil(R)) 0,05&nbsp;mg/kg KG)
+- H1-Blocker: Dimetinden (Fenistil&reg;) 0,1&nbsp;mg/kg KG oder Clemastin (Tavegil&reg;) 0,05&nbsp;mg/kg KG)
 - H2-Blocker: Cimetidin 300&nbsp;mg p.o. oder i.v.
-- Prednison p.o. 1&nbsp;mg/kg (maximal 50&nbsp;mg) *oder*
+- Prednison p.o. 1&nbsp;mg/kg (maximal 50&nbsp;mg) *oder*<br>
+  Hydrocortison i.v. 2-4&nbsp;mg/kg (maximal 200&nbsp;mg) *oder*<br>
+  Dexamethason i.v. 0,2-0,4&nbsp;mg/kg (maximal 10&nbsp;mg)
 
-    Hydrocortison i.v. 2-4&nbsp;mg/kg (maximal 200&nbsp;mg) *oder*
+## Weiterlesen
 
-    Dexamethason i.v. 0,2-0,4&nbsp;mg/kg (maximal 10&nbsp;mg)
-
-## Quellen
-
-- [Leitlinie der AWMF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878028/pdf/15007_2020_Article_4750.pdf "Leitlinie zu Akuttherapie und Management der Anaphylaxie – Update 2021")
+- [Leitlinie der AWMF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878028/pdf/15007_2020_Article_4750.pdf "Leitlinie zu Akuttherapie und Management der Anaphylaxie – Update 2021") zu Akuttherapie und Management der Anaphylaxie – Update 2021
+- [Guideline of the European Academy of Allergy and Clinical Immunology (EAACI): Anaphylaxis](https://onlinelibrary.wiley.com/doi/10.1111/all.15032) (2021 update)

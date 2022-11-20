@@ -1,6 +1,4 @@
 Title: Hypertensive Krise
-Date: 2022-11-05 12:00
-Modified: 2022-11-05 12:00
 Slug: hypertensive-krise
 Authors: Johannes Ammon
 
@@ -25,6 +23,7 @@ Keine aggressive Therapie, wenn keine Hinweise auf Endorganschädigung vorliegen
 
 > Evtl. [RUSH-Untersuchung](hypotonie#RUSH), zur besseren hämodynamische Beurteilung.
 
+<hr/>
 ## Ursachen für hypertensive Notfälle
 
 - Chronische Hypertonie, akut verschlechtert

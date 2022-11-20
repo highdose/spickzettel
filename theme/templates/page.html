@@ -24,12 +24,12 @@
 
 {% block navigation %}
 <nav class="hidden w-full text-2xl font-semibold pb-2 bg-amber-100 shadow-lg
-            md:block md:w-auto md:pl-4 md:w-64 md:mr-2 sticky md:static top-14 md:h-0 overflow-visible">
+            md:block md:w-auto md:w-64 md:mr-2 sticky md:static top-14 md:h-0 overflow-visible">
   <!-- Pages -->
   {% for p in pages %}
-  <a href="{{ SITEURL }}/{{ p.url }}" class="odd:bg-amber-100 even:bg-amber-200">
-    <div class="py-2 px-4 {% if p==page %} text-blue-600 {% endif %} 
-    ">
+  <a href="{{ SITEURL }}/{{ p.url }}" class="">
+    <div class="py-2 px-4 {% if p==page %} text-blue-600 {% endif %}
+    {% if loop.index % 2 %} bg-amber-100 {% else %} bg-amber-200 {% endif %} ">
       {{ p.title }}
     </div>
   </a>
@@ -42,14 +42,11 @@
   {{ page.content }}
 
   {% if page.modified %}
-  <p class="mt-4">
+  <p class="mt-4 text-right text-xs text-gray-500">
     Letzte Überarbeitung: {{ page.locale_modified }}
   </p>
   {% endif %}
 </div>
-{% endblock %}
-
-{% block footer %}
 <script>
   const show_btn = document.getElementById("show-menu");
   const hide_btn = document.getElementById("hide-menu");

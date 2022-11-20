@@ -1,6 +1,4 @@
 Title: Septischer Schock
-Date: 2022-11-02 12:00
-Modified: 2022-11-02 12:00
 Slug: septischer-schock
 Authors: Johannes Ammon
 
@@ -10,11 +8,11 @@ Authors: Johannes Ammon
 
 > Notfalllabor, Blutkulturen, Urinkultur. Sofort Breitspektrumantibiotika in hoher Initialdosis.
 
-> Volumentherapie: Kristalloide als Bolus 500 bis 1000&nbsp;ml, dann insgesamt auf bis zu 20-30&nbsp;ml/kg ergänzen, je nach Monitoringparameter und Echobefund.
+> Volumentherapie: Kristalloide als Bolus 500 bis 1000&nbsp;mL, dann insgesamt auf bis zu 20-30&nbsp;mL/kg ergänzen, je nach Monitoringparameter und Echobefund.
 
 > Indikation für arteriellen Zugang und ZVK prüfen.
 
-> Kontrolle des Ansprechens auf die Therapie anhand von stündlicher Urinausscheidung und Laktatkontrollen.
+> Kontrolle des Ansprechens auf die Therapie anhand von stündlicher Urinausscheidung, Laktatkontrollen und Rekapillarisierungszeit.
 
 > Katecholamine geben, wenn der MAP <&nbsp;65&nbsp;mmHg bleibt.
 
@@ -24,32 +22,40 @@ Authors: Johannes Ammon
 
 > Gezielte bildgebende Diagnostik, Zuziehung weiterer Fachabteilungen für die weitere Versorgung und Focuskontrolle.
 
+<hr/>
 Die diagnostische Trias basiert auf vermuteten oder dokumentierten Anzeichen einer Infektion, Hypotonie (MAP ≤&nbsp;65&nbsp;mmHg nach angemessener initialer Flüssigkeitszufuhr) und Gewebehypoperfusion (Laktat >&nbsp;2&nbsp;mmol/L).
 
 Ein septischer Schock ist ein Notfall, der eine rasche klinische Diagnose und Behandlung erfordert. Die Prioritäten sind Volumen, Vasopressoren und Lokalisierung der Ursache. Eine häufige Reevaluierung ist unerlässlich.
 
 ## Antimikrobielle Therapie
 
-Es sollten sofort Blut- und Körperflüssigkeitskulturen angelegt werden. Breitbandantibiotika, die jede mögliche Ursache abdecken, sollten umgehend begonnen werden. Die Keimgewinnung darf die Antibiose nicht verzögern.
+Es sollten sofort mikrobiologische Kulturen von Blut, Urin und ggf. Trachealsekret/Sputum oder Punktaten angelegt werden. Breitbandantibiotika, die jede mögliche Ursache abdecken, sollten umgehend begonnen werden. Die Keimgewinnung darf die Antibiose nicht verzögern.
 
 ## Vasopressoren-Therapie
 
 Die Vasopressor-Therapie kann über einen großkalibrigen, peripheren Venenzugang (nicht Hand oder Handgelenk) begonnen werden. So bald wie möglich sollte dies aber auf einen zentralvenösen Zugang umgestellt werden. Viele Abteilungen haben dazu eigene Richtlinien.
 
-Noradrenalin und evtl. auch Adrenalin sind gute erste Vasopressoren (vor allem bei unzureichendem Herzzeitvolumen). Vasopressin hinzufügen, wenn die Noradrenalin-Dosis zu hoch wird (>&nbsp;20&nbsp;µg/min).
+Noradrenalin kommt als erster Vasopressor zum Einsatz. Vasopressin hinzufügen, wenn die Noradrenalin-Dosis zu hoch wird (>&nbsp;0,25 - 0,5&nbsp;µg/kg/min). Vasopressin wird meist mit einer festen Dosis von 0,03&nbsp;Units/min (= 1,8&nbsp;Units/h) gegeben. Bei unzureichender Wirkung von Noradrenalin und Vasopressin (vor allem bei unzureichendem Herzzeitvolumen) evtl. zusätzlich Adrenalin geben.
 
-Ziehen Sie Steroide in Betracht, wenn die Hypotonie trotz mehrerer Vasopressoren anhält. Streben Sie einen höheren Ziel-MAP an, wenn der Patient normalerweise hypertensiv ist.
-
-(Die Surviving Sepsis Campaign (SSC) empfiehlt nach wie vor den ZVD und ScvO2 als Zielparameter der Therapie. Es gibt es keine Evidenz dafür, dass dies die Sterblichkeit verbessert.)
+Wenn die Hypotonie trotz mehrerer Vasopressoren anhält, sind Steroide sinnvoll (Hydrocortison 200&nbsp;mg/d). Wenn der Patient normalerweise hypertensiv ist, sollte der Ziel-MAP höher (z.B. 75&nbsp;mmHg) angesetzt werden.
 
 ## Inotrope Therapie
 
-Dobutamin kann in Betracht gezogen werden, bei Anzeichen einer signifikanten myokardialen Dysfunktion und anhaltende Anzeichen einer Hypoperfusion trotz angemessenem intravaskulärem Volumen und obwohl ein adäquater MAP erreicht wurde. Supranormale kardiale Indizes und Blutdruckwerte sollten dabei nicht angestrebt werden. Adrenalin in inotropen Dosen (0,01 bis 0,08&nbsp;µg/kg/min) kann ebenfalls in Betracht gezogen werden.
+Dobutamin kann in Betracht gezogen werden bei Anzeichen einer signifikanten myokardialen Dysfunktion und anhaltenden Anzeichen einer Hypoperfusion trotz angemessenem intravaskulärem Volumen und adäquatem MAP. Supranormale kardiale Indizes und Blutdruckwerte sollten dabei nicht angestrebt werden. Adrenalin in inotroper Dosierung (0,01 bis 0,08&nbsp;µg/kg/min) kann ebenfalls in Betracht gezogen werden.
 
 ## Volumentherapie
 
-Die Wahl der Flüssigkeit hängt von der Wirksamkeit, der Sicherheit, der Verfügbarkeit, den Kosten und dem Wunsch nach einer Minimierung des interstitiellen Ödems ab. Die empfohlene isotonische kristalloide Lösung ist entweder eine balancierte Lösung (z. B. Ringer-Laktat) oder 0,9% Natriumchlorid. Es gibt Bedenken hinsichtlich einer Hyperchlorämie und Hinweise aber keinen eindeutigen Beleg für ein erhöhtes Risiko einer Nierenschädigung durch NaCl 0,9%. Es gibt keinen eindeutigen Nutzen (oder Schaden) von Albumin. HAES sollte wegen eines erhöhten Risikos für Nierenschäden vermieden werden.
+Zur Volumentherapie wird primär isotonische, kristalloide Lösung empfohlen. Eine balancierte Lösung (z. B. Ringer-Laktat, Jonosteril&reg;, Sterofundin&reg; usw.) ist wahrscheinlich der 0,9%-Natriumchlorid-Lösung vorzuziehen wegen Hinweisen auf geringere Mortalität und ein geringeres Risiko einer Nierenschädigung.
+
+Es gibt keinen eindeutigen Nutzen (oder Schaden) von Albumin.
+
+HAES sollte wegen eines erhöhten Risikos für Nierenschäden vermieden werden.
 
 ## Bluttransfusion
 
-Transfusion bei einem Hb-Wert von weniger als 7&nbsp;g/dL. Leukozytenreduziertes Blut in Erwägung ziehen, wenn die lokalen Richtlinien dies zulassen.
+Transfusion bei einem Hb-Wert von weniger als 7&nbsp;g/dL. Nur bei Myokardischämie, schwerer Hypoxämie oder akuter Blutung ist ein höherer Zielwert für den Hb sinnvoll.
+
+## Weiterlesen
+
+- [International guidelines for management of sepsis and septic shock 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8486643/) der Surviving Sepsis Campaign
+- Internet Book of Critical Care: [Septic shock](https://emcrit.org/ibcc/sepsis/)

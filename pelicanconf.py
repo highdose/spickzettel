@@ -1,4 +1,4 @@
-AUTHOR = "Johannes Ammon, Florian Kroschel"
+AUTHOR = "Johannes Ammon"
 SITENAME = "Schockraum-Spickzettel"
 SITEURL = ""
 
@@ -8,6 +8,7 @@ TIMEZONE = "Europe/Berlin"
 STATIC_PATHS = []
 JINJA2CONTENT_TEMPLATES = ["../tools"]
 OUTPUT_PATH = "output/"
+DEFAULT_DATE = "fs"
 DEFAULT_DATE_FORMAT = "%d.%m.%Y"
 
 DEFAULT_LANG = "de"

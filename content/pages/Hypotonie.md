@@ -1,6 +1,4 @@
 Title: Unklare Hypotonie
-Date: 2022-11-01 12:00
-Modified: 2022-11-01 12:00
 Slug: hypotonie
 Authors: Johannes Ammon
 
@@ -22,6 +20,7 @@ Authors: Johannes Ammon
 
 > Gezielte Therapie abhängig von diesen Befunden.
 
+<hr/>
 <span id="RUSH"></span>
 
 ## RUSH (Rapid Ultrasound for Shock and Hypotension)

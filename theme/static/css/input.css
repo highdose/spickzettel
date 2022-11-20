@@ -30,6 +30,13 @@ p {
     @apply leading-normal pb-2
 }
 
+li p {
+    @apply pb-0
+}
+
+hr {
+    border-top: 3px solid #6B7280;
+}
 ul {
     list-style: disc outside;
     margin-left: 3ex;
