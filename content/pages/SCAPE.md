@@ -1,20 +1,19 @@
 Title: Akutes, adrenerges Lungenödem
 Slug: scape
 Authors: Johannes Ammon
+Status: published
 
-<!-- # Akutes, adrenerges Lungenödem (Sympathetic crashing acute pulmonary edema - SCAPE) -->
-
-<div class="my-6 p-6 font-semibold text-xl border-solid border-2">
+<div class="my-6 p-6 font-semibold text-2xl border-solid border-2">
     Für hypertensive Patienten im schweren Lungenödem
 </div>
 
 > i.v.-Zugang; arteriellen Zugang erwägen.
 
-> NIV mit 100% O2 und den nebenstehenden Einstellungen.
+> NIV mit 100% O2. [Einstellungen](#einstellungen).
 
-> Nitroglycerin 200-400&nbsp;µg i.v.-Bolus über 1&nbsp;min geben und alle 2&nbsp;min wiederholen, wenn der Blutdruck hoch bleibt.
+> Nitroglycerin 0,4 bis 1&nbsp;mg i.v.-Bolus geben und alle 2&nbsp;min wiederholen, wenn der Blutdruck hoch bleibt.
 
-> Nitroglycerin-Perfusor Start mit 100&nbsp;µg/min (6&nbsp;mg/h), titrieren bis zu 400&nbsp;µg/min (24&nbsp;mg/h).
+> Nitroglycerin-Perfusor Start mit 0,1&nbsp;mg/min (6&nbsp;mg/h), titrieren bis zu 0,4&nbsp;mg/min (24&nbsp;mg/h).
 
 > Wenn sich eine Hypotonie entwickelt, Nitroglycerin reduzieren/stoppen, evtl. 250 ml Volumenbolus geben.
 
@@ -26,29 +25,45 @@ Authors: Johannes Ammon
 
 > Serielle EKGs und Herzenzyme mit der Frage nach Myokardischämie.
 
-> Aufnahme auf die Intensivstation oder CCU, sobald der Patient stabil ist.
+> Weitere Diagnostik [siehe unten](#weiter)
 
 <hr/>
 Das akute, adrenerge Lungenödem ist eine Extremform im Spektrum des akuten Lungenödems.
 
-Der Patient präsentiert sich mit plötzlicher Atemnot und starker Blutdruckerhöhung durch überschießende, adrenerge Stimulation. Man sieht ein schweres Lungenödem, aber nur geringe periphere Ödeme. Das Hauptproblem ist die sehr hohe Nachlast.
+Der Patient präsentiert sich mit **plötzlicher Atemnot** und **starker Blutdruckerhöhung** durch überschießende, adrenerge Stimulation. Man sieht ein schweres Lungenödem, aber nur geringe periphere Ödeme. Das Hauptproblem ist die sehr hohe Nachlast.
 
 Das Behandlungsprinzip ist, mit NIV die Atmung zu unterstützen, mit i.v.-Nitraten die Nachlast zu reduzieren und die Ursachen zu behandeln. Ziel ist es, eine endotracheale Intubation zu vermeiden. Sie ist nur bei wenigen dieser Patienten nötig und birgt eigene Risiken und Probleme.
 
-**NIV-Einstellungen**: Die Patienten benötigen in erster Linie PEEP (CPAP/EPAP). Beginn bei 5&nbsp;cmH2O, titrieren bis zu 15&nbsp;cmH2O. ASB/IPAP kann optional eingestellt werden.
+**NIV-Einstellungen**<span id="einstellungen"></span>: Die Patienten benötigen in erster Linie PEEP (CPAP/EPAP). Beginn bei 5&nbsp;mbar, dann nach Erfolg und Verträglichkeit rasch hochtitrieren bis zu 15&nbsp;mbar. ASB/IPAP kann optional eingestellt werden.
 
-Niedrig dosiertes Nitroglycerin wirkt sich in erster Linie auf die Vorlast aus, so dass hoch dosiertes Nitroglycerin erforderlich ist, um die Nachlast zu reduzieren. Die Patienten sind nicht akut volumenüberladen und benötigen keine Diuretika.
+Niedrig dosiertes Nitroglycerin wirkt in erster Linie auf die Vorlast, so dass hoch dosiertes Nitroglycerin erforderlich ist, um die Nachlast zu reduzieren. Die Patienten sind oft nicht akut volumenüberladen und benötigen keine Diuretika.
 
-Diuretika sollten nicht frühzeitig gegeben werden. Eine akute Diurese mit Furosemid kann die Nachlast durch neurohormonelle Mechanismen (Erhöhung von Sympathikus und renalem Angiotensin) erhöhen. Morphin führt zu höheren Intubationsraten und verbessert das primäre Problem nicht.
+Diuretika sollten nicht frühzeitig gegeben werden. Eine akute Diurese mit Furosemid kann die Nachlast durch neurohormonelle Mechanismen (Sympathikotonus, renales Angiotensin) erhöhen. Morphin führt zu höheren Intubationsraten und verbessert das primäre Problem nicht.
 
 **Wenn der Patient nicht hypertensiv ist, muss eine andere Ursache (z.B. kardiogener Schock, Niereninsuffizienz) von Ödemen und Lungenstauung behandelt werden.**
 
 Die bettseitige Echokardiographie kann die Ventrikel- und Klappenfunktion bestimmen und das Lungenödem nachweisen.
 
-<div class="my-3 p-3 text-lg border-solid border-2"> Das akute Lungenödem hat eine hohe Mortalität, aber das Akute <strong>Adrenerge</strong> Lungenödem ist ein gut behandelbarer Notfall. Eine frühe Erkennung und schnelle Behandlung kann eine Intubation und Intensivbehandlung und die damit verbundene Morbidität und Mortalität vermeiden.</div>
+<div class="my-3 p-3 text-xl border-solid border-4"> Das akute Lungenödem hat eine hohe Mortalität, aber das Akute <strong>Adrenerge</strong> Lungenödem ist ein gut behandelbarer Notfall. Eine frühe Erkennung und schnelle Behandlung kann eine Intubation und Intensivbehandlung und die damit verbundene Morbidität und Mortalität vermeiden.</div>
 
 Ursachen für ein akutes Lungenödem, die eine sofortige Intervention erfordern:
 
 - akute Klappendysfunktion
 - Myokardinfarkt
 - Kardiomyopathie.
+
+## Weitere Diagnostik<span id="weiter"></span>
+
+- (NT-Pro-)BNP: hoher negativ-prädiktiver Wert.
+- Rö-Thorax: zur Abgrenzung von einer Pneumonie.
+- Kreatinin, Na, K, Cl im Serum
+- Eisenstatus
+- TSH
+- D-Dimere: ggf. zum Ausschluss einer Lungenembolie (Cave: positive Werte machen eine Lungenembolie nicht besonders wahrscheinlich. Es gibt viele Gründe für D-Dimer-Erhöhung.)
+- Procalcitonin: bei V.a. Pneumonie.
+- Lactat: bei Zeichen der peripheren Hypoperfusion.
+- Arterielle BGA: bei anhaltender respir. Insuffizienz.
+
+## Weiterlesen
+
+- Internet Book of Critical Care: [Sympathetic Crashing Acute Pulmonary Edema (SCAPE)](https://emcrit.org/ibcc/scape/)

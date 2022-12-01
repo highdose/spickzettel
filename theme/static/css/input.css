@@ -23,21 +23,32 @@ blockquote p:before {
     text-align: right;
 }
 h2 {
-    @apply text-lg py-2 mt-2 font-semibold
+    @apply text-lg
+}
+h2, h3 {
+    @apply py-2 mt-2 font-bold
 }
 
 p {
-    @apply leading-normal pb-2
+    @apply leading-normal py-1
 }
 
 li p {
-    @apply pb-0
+    @apply py-0
 }
 
 hr {
     border-top: 3px solid #6B7280;
+    margin-bottom: 12px;
 }
 ul {
     list-style: disc outside;
     margin-left: 3ex;
+    @apply py-1
+}
+.calcbutton {
+    @apply inline-block px-5 py-2 font-medium text-base leading-tight rounded shadow-md bg-yellow-400 hover:bg-yellow-500 hover:shadow-lg focus:bg-yellow-500 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-yellow-500 active:shadow-lg transition duration-150 ease-in-out 
+}
+.calcbutton.current {
+    @apply bg-yellow-600
 }

@@ -8,7 +8,7 @@
   <meta name="generator" content="Pelican" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet"
-        href="/{{ THEME_STATIC_DIR }}/css/main.css" />
+        href="/{{ THEME_STATIC_DIR }}/css/main01.css" />
   {% endblock head %}
 </head>
 
@@ -18,7 +18,8 @@
     <header class="text-4xl p-4 font-semibold bg-red-400">
       {% block header %}{% endblock %}
     </header><!-- /#banner -->
-    <article class="md:grid md:grid-cols-[minmax(260px,_25%)_1fr] mb-16">
+    <article class="grid grid-cols-1 
+                    md:grid-cols-[minmax(260px,_25%)_1fr] mb-16">
       {% block navigation %}
       {% endblock navigation %}
 
@@ -27,7 +28,8 @@
     </article>
 
     {% block footer %}
-    <footer class="text-xl bg-slate-500 text-yellow-100 h-16 p-4 fixed bottom-0 w-full max-w-7xl">
+    <footer
+            class="text-lg sm:text-xl bg-slate-500 text-yellow-100 h-16 p-4 fixed bottom-0 w-full max-w-7xl">
       <a href="/pages/about.html" class="ml-2">Über</a>
       <a href="/pages/contribute.html" class="ml-6">Helfen</a>
       <a href="/pages/impressum.html" class="ml-6">Impressum</a>

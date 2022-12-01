@@ -1,2 +1,3 @@
 x 2022-11-20 Footer, Impressum
 x 2022-11-20 Mailaddresse einrichten
+x 2022-12-01 CSS der Navigation überarbeiten

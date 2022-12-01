@@ -27,6 +27,9 @@ LINKS = ()
 SOCIAL = ()
 
 DEFAULT_PAGINATION = False
-
+DEFAULT_METADATA = {
+    "status": "draft",
+}
+DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

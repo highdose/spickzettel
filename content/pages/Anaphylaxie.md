@@ -1,28 +1,27 @@
 Title: Anaphylaktischer Schock
 Slug: anaphylaxie
 Authors: Johannes Ammon
+Status: published
 
 > Mögliche <strong>Auslöser entfernen/&ZeroWidthSpace;beenden</strong>!&emsp;Hilfe&nbsp;rufen!
 
-> Bei Gefährdung der Atemwege oder drohender Obstruktion frühzeitig an <a href='#intubation'>Intubation</a> denken. Ein Ödem kann schnell fortschreiten.
+> Gib **Adrenalin i.m.** Wenn notwendig, alle 5 bis 10&nbsp;min wiederholen. [&rarr;&nbsp;Dosierung](#dosis) <br/>
+> Evtl. zusätzlich Adrenalin-Inhalation.
+
+> Bei Gefährdung der Atemwege oder drohender Obstruktion frühzeitig an [Intubation](#intubation) denken. Ein Ödem kann schnell fortschreiten.
 
 > Gib hochdosiert Sauerstoff.
 
 > Zwei großlumige Venenzugänge, infundiere rasch 1 bis 3 Liter kristalloider Lösung (bei Kindern 20&nbsp;ml/kg).
 
-> Gib Adrenalin i.m. Wenn notwendig, alle 5 bis 10&nbsp;min wiederholen. <a href='#dosis'>&rarr;&nbsp;Dosierung</a><br/>
-> Evtl. zusätzlich Adrenalin-Inhalation.
-
 > Wenn die Symptome fortbestehen, beginne mit einer Adrenalin-Infusion und erwäge einen arteriellen Zugang.
 
-> Reagiert der Patient immer noch nicht, ziehe die unten aufgeführten <a href='#alternativen'>alternativen Mittel</a> in Betracht.
+> Reagiert der Patient immer noch nicht, ziehe die unten aufgeführten [alternativen Mittel](#alternativen) in Betracht.
 
-> Beginne mit der <a href='#zusatz'>Zusatztherapie</a>, sobald der Patient hämodynamisch stabil ist.
+> Beginne mit der [Zusatztherapie](#zusatz), sobald der Patient hämodynamisch stabil ist.
 
 <hr/>
-## <span id="intubation">Intubation</span>
-
-Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B vorbereiten. Wenn es die Zeit erlaubt, ggf. Wachintubation erwägen.
+Der wichtigste Arzneistoff in der Akuttherapie der Anaphylaxie ist Adrenalin. Alle anderen Medikamente sind weniger potent und weniger schnell wirksam. Bevorzugter Injektionsort ist der laterale Oberschenkel. Anders als die intravenöse Gabe scheint die i.m.-Injektion ein geringes Nebenwirkungsrisiko zu haben.
 
 ## Dosierung von Adrenalin<span id="dosis"></span>
 
@@ -43,6 +42,10 @@ Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B v
 - Methylenblau 1,5-2&nbsp;mg/kg i.v.-Bolus,
 
     in refraktären Fällen zusätzlich kontinuierliche Infusion von 0,5&nbsp;mg/kg/Std.
+
+## <span id="intubation">Intubation</span>
+
+Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B vorbereiten. Wenn es die Zeit erlaubt, ggf. Wachintubation erwägen.
 
 ## Begleittherapie, wenn die Hämodynamik stabil ist<span id="zusatz"></span>
 

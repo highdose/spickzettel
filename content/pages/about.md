@@ -20,6 +20,6 @@ Die Site soll mit der Zeit um weitere Checklisten erweitert werden. Da das Proje
 
 ## Technik, Datenschutz
 
-Diese Internetseite verwendet keine Cookies. Es werden keine Nutzerdaten erhoben oder gespeichert. Anonymisierte Zugriffsdaten werden für technische Zwecke und zum Benutzer-Zählen kurzzeitig gespeichert. Es werden keine Inhalte fremder Anbieter (wie Google Fonts o.ä.) eingebunden.
+Diese Internetseite verwendet keine Cookies. Es werden keine Nutzerdaten erhoben oder gespeichert. Anonymisierte Zugriffsdaten werden für technische Zwecke und zum Benutzer-Zählen maximal 7 Tage gespeichert. Es werden keine Inhalte fremder Anbieter (wie Google Fonts o.ä.) eingebunden.
 
-Wenn Ihr Euch an dem Projekt [inhaltlich beteiligt](/pages/contribute.html) werden Eure persönlichen Daten nur soweit erfasst und gespeichert, wie es für diesen Prozess nötig ist.
+Wenn Ihr Euch an dem Projekt [inhaltlich beteiligt](/pages/contribute.html), werden Eure persönlichen Daten nur soweit erfasst und gespeichert, wie es für diesen Prozess nötig ist.

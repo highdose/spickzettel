@@ -8,9 +8,12 @@
 <!-- Buttons -->
 {% for id, klass, path in (
 ("show-menu", "",
-"M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"),
+"M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110
+2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"),
 ("hide-menu","hidden",
-"M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z")) %}
+"M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414
+10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0
+01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z")) %}
 <button id="{{ id }}"
         class="{{ klass }} md:hidden w-10 h-10 bg-gray-200 text-gray-600 p-2 fixed top-4 right-4 rounded">
   <svg fill="currentColor" viewBox="0 0 20 20"
@@ -23,8 +26,10 @@
 {% endblock %}
 
 {% block navigation %}
-<nav class="hidden w-full text-2xl font-semibold pb-2 bg-amber-100 shadow-lg
-            md:block md:w-auto md:w-64 md:mr-2 sticky md:static top-14 md:h-0 overflow-visible">
+<nav
+     class="text-2xl font-semibold pb-2 bg-amber-100 shadow-lg
+            hidden w-full 
+            md:block md:w-64 md:mr-2 md:static">
   <!-- Pages -->
   {% for p in pages %}
   <a href="{{ SITEURL }}/{{ p.url }}" class="">
@@ -47,7 +52,9 @@
   </p>
   {% endif %}
 </div>
+<script src="/{{ THEME_STATIC_DIR }}/js/dosis.js"></script>
 <script>
+  // Menu
   const show_btn = document.getElementById("show-menu");
   const hide_btn = document.getElementById("hide-menu");
   const navigation = document.querySelector("nav");
@@ -61,6 +68,11 @@
     hide_btn.classList.add("hidden");
     show_btn.classList.remove("hidden");
     navigation.classList.add("hidden");
+  })
+  // 
+  // Buttons
+  document.querySelectorAll(".calcbutton").forEach(element => {
+    element.addEventListener("click", clicked);
   })
 </script>
 {% endblock %}
