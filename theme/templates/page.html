@@ -4,7 +4,7 @@
 {% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
 
 {% block header %}
-<h1 class="mr-6 md:ml-25% md:mr-0">{{ page.title }}</h1>
+<h1 class="mr-10 md:ml-25% md:mr-0">{{ page.title }}</h1>
 <!-- Buttons -->
 {% for id, klass, path in (
 ("show-menu", "",
@@ -15,7 +15,7 @@
 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0
 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z")) %}
 <button id="{{ id }}"
-        class="{{ klass }} md:hidden w-10 h-10 bg-gray-200 text-gray-600 p-2 fixed top-4 right-4 rounded">
+        class="{{ klass }} md:hidden w-10 h-10 bg-gray-200 text-gray-600 p-2 absolute top-4 right-4 rounded">
   <svg fill="currentColor" viewBox="0 0 20 20"
        xmlns="http://www.w3.org/2000/svg">
     <path fill-rule="evenodd" clip-rule="evenodd" d="{{ path }}">
