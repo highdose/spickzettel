@@ -8,10 +8,6 @@ blockquote {
     counter-reset: paragraph;
     position: relative;
 }
-
-blockquote a, .content a {
-    @apply text-indigo-800 underline
-}
 blockquote p {
     padding-left: 0px;
 }
@@ -22,6 +18,12 @@ blockquote p:before {
     left: -36px;
     text-align: right;
 }
+
+blockquote a,
+.content a {
+    @apply text-indigo-800 underline
+}
+
 h2 {
     @apply text-lg
 }
@@ -46,8 +48,19 @@ ul {
     margin-left: 3ex;
     @apply py-1
 }
+abbr {
+    text-decoration: underline dotted;
+}
 .calcbutton {
-    @apply inline-block px-5 py-2 font-medium text-base leading-tight rounded shadow-md bg-yellow-400 hover:bg-yellow-500 hover:shadow-lg focus:bg-yellow-500 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-yellow-500 active:shadow-lg transition duration-150 ease-in-out 
+    @apply inline-block px-5 py-2 mr-1 mb-1 font-medium text-base leading-tight rounded shadow-md bg-yellow-400 transition duration-150 ease-in-out 
+}
+.calcbutton:hover,
+.calcbutton:active,
+.calcbutton:focus {
+    @apply bg-yellow-500 shadow-lg
+}
+.calcbutton:focus {
+    @apply outline-none ring-0 
 }
 .calcbutton.current {
     @apply bg-yellow-600

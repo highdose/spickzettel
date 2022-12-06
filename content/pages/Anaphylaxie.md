@@ -33,7 +33,11 @@ Der wichtigste Arzneistoff in der Akuttherapie der Anaphylaxie ist Adrenalin. Al
 ## Alternativen bei schlechtem Ansprechen auf die konventionelle Therapie<span id="alternativen"></span>
 
 - Adrenalin 100&nbsp;µg i.v.-Bolus (1&nbsp;mg Adrenalin in 100&nbsp;ml NaCl 0,9%, davon 10&nbsp;ml).
-- Noradrenalin-Infusion 0,1&nbsp;µg/kg/min.
+- Noradrenalin-Infusion <a class="doselink"
+    data-substanz="Noradrenalin"
+    data-dosierung="0.1">
+    0,1&nbsp;µg/kg/min
+</a>.
 - Vasopressin 0,01-0,03&nbsp;U/min.
 - Glucagon 1&nbsp;mg intravenös über 5&nbsp;Minuten (zur Umkehrung der Betablockerwirkung),
 

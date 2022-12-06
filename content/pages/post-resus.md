@@ -2,6 +2,7 @@ Title: Management nach Reanimation
 Slug: post-resus
 Authors: Johannes Ammon
 Status: draft
+Tags: TBD
 
 > Tubuslagekontrolle durch etCO2.
 

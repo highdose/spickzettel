@@ -36,13 +36,18 @@ Es sollten sofort mikrobiologische Kulturen von Blut, Urin und ggf. Trachealsekr
 
 Die Vasopressor-Therapie kann über einen großkalibrigen, peripheren Venenzugang (nicht Hand oder Handgelenk) begonnen werden. So bald wie möglich sollte dies auf einen zentralvenösen Zugang umgestellt werden. Viele Abteilungen haben dazu eigene Richtlinien.
 
-Noradrenalin kommt als erster Vasopressor zum Einsatz. Vasopressin hinzufügen, wenn die Noradrenalin-Dosis zu hoch wird (>&nbsp;0,25 - 0,5&nbsp;µg/kg/min). Vasopressin wird meist mit einer festen Dosis von 0,03&nbsp;Units/min (= 1,8&nbsp;Units/h) gegeben. Bei unzureichender Wirkung von Noradrenalin und Vasopressin (vor allem bei unzureichendem Herzzeitvolumen) evtl. zusätzlich [inotrope Therapie](#inotropie).
+Noradrenalin kommt als erster Vasopressor zum Einsatz. Vasopressin hinzufügen, wenn die Noradrenalin-Dosis zu hoch wird (>&nbsp; <a class="doselink"
+    data-substanz="Noradrenalin"
+    data-dosierung="0.25" data-dosierung2="0.5">
+    0,25 - 0,5&nbsp;µg/kg/min</a>). Vasopressin wird meist mit einer festen Dosis von 0,03&nbsp;Units/min (= 1,8&nbsp;Units/h) gegeben. Bei unzureichender Wirkung von Noradrenalin und Vasopressin (vor allem bei unzureichendem Herzzeitvolumen) evtl. zusätzlich [inotrope Therapie](#inotropie).
 
 Wenn die Hypotonie trotz mehrerer Vasopressoren anhält, sind Steroide sinnvoll (Hydrocortison 200&nbsp;mg/d). Wenn der Patient normalerweise hypertensiv ist, sollte der Ziel-MAP höher (z.B. 75&nbsp;mmHg) angesetzt werden.
 
 ## Inotrope Therapie<span id="inotropie"></span>
 
-Dobutamin kann sinnvoll sein bei einer signifikanten myokardialen Dysfunktion und anhaltender Hypoperfusion trotz angemessenem intravaskulärem Volumen und adäquatem MAP. Supranormale Werte für HZV usw. und Blutdruck sollten dabei nicht angestrebt werden. Adrenalin in inotroper Dosierung (0,01 bis 0,08&nbsp;µg/kg/min) kann ebenfalls in Betracht gezogen werden.
+Dobutamin kann sinnvoll sein bei einer signifikanten myokardialen Dysfunktion und anhaltender Hypoperfusion trotz angemessenem intravaskulärem Volumen und adäquatem MAP. Supranormale Werte für HZV usw. und Blutdruck sollten dabei nicht angestrebt werden. Adrenalin in inotroper Dosierung (<a class="doselink"
+    data-substanz="Adrenalin"
+    data-dosierung="0.01" data-dosierung2="0.08">0,01 - 0,08&nbsp;µg/kg/min</a>) kann ebenfalls in Betracht gezogen werden.
 
 ## Volumentherapie
 

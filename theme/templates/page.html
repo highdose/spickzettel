@@ -52,6 +52,39 @@
   </p>
   {% endif %}
 </div>
+
+<template id="button_template">
+  <button class="calcbutton"></button>
+</template>
+
+<template id="dosedialogtemplate">
+  <aside
+         class="dosedialog w-auto md:w-1/2 lg:w-2/5 md:float-right shadow-inner p-2 border-2 border-gray-200 bg-amber-200 relative  ">
+    <button
+            class="closedialog w-10 h-10 p-2 absolute top-2 right-2 rounded bg-gray-200 text-gray-600">
+      <svg fill="currentColor" viewBox="0 0 20 20"
+           xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 
+          1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 
+          4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z">
+        </path>
+      </svg>
+    </button>
+    <div class="title text-xl"></div>
+
+    <div class="weightbuttons">
+      <div class="text-base">Körpergewicht</div>
+    </div>
+    <div class="rezeptbuttons">
+      <div class="text-base">Zubereitung</div>
+    </div>
+    <div class="text-base pt-2">Dosisrate: <span class="dosisrate font-bold"></span>
+    <div class="text-base pt-2">Laufrate: <span class="laufrate font-bold"></span>
+    </div>
+  </aside>
+</template>
+
 <script src="/{{ THEME_STATIC_DIR }}/js/dosis.js"></script>
 <script>
   // Menu
@@ -70,9 +103,9 @@
     navigation.classList.add("hidden");
   })
   // 
-  // Buttons
-  document.querySelectorAll(".calcbutton").forEach(element => {
-    element.addEventListener("click", clicked);
-  })
+  // Dose-Links
+  document.querySelectorAll(".doselink").forEach(element => {
+    element.addEventListener("click", open_dose_dialog);
+  });
 </script>
 {% endblock %}

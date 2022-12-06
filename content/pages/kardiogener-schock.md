@@ -31,12 +31,31 @@ Status: published
 
 <hr>
 ## Medikamenten-Dosierung
-- **Noradrenalin**: Beginn mit 5&nbsp;µg/min und Titration auf 1&nbsp;µg/kg/min
-- **Adrenalin**: (inotrope Dosierung) 0,01 - 0,08&nbsp;µg/kg/min
-- **Dobutamin**: 2 - 20&nbsp;µg/kg/min
-- **Levosimendan**: 0,05 - 0,2&nbsp;µg/kg/min (keine Loadingdose)
-- **Milrinon**: 0,375 - 0,75&nbsp;µg/kg/min
-- **Enoximon**: 5 - 20&nbsp;µg/kg/min
+- **Noradrenalin**: Beginn mit 5&nbsp;µg/min und Titration auf <a class="doselink"
+    data-substanz="Noradrenalin"
+    data-dosierung="1">
+    1&nbsp;µg/kg/min
+</a>
+- **Dobutamin**: <a class="doselink"
+    data-substanz="Dobutamin"
+    data-dosierung="2" data-dosierung2="20">
+    2 - 20&nbsp;µg/kg/min
+</a>
+- **Levosimendan**: <a class="doselink"
+    data-substanz="Levosimendan"
+    data-dosierung="0.05" data-dosierung2="0.2">
+    0,05 - 0,2&nbsp;µg/kg/min
+</a> (keine Loadingdose)
+- **Milrinon**: <a class="doselink"
+    data-substanz="Milrinon"
+    data-dosierung="0.375" data-dosierung2="0.75">
+    0,375 - 0,75&nbsp;µg/kg/min
+</a>
+- **Enoximon**: <a class="doselink"
+    data-substanz="Enoximon"
+    data-dosierung="2.5" data-dosierung2="10">
+    2,5 - 10&nbsp;µg/kg/min
+</a>
 
 ## Methoden zur Messung des Herzzeitvolumens
 
