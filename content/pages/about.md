@@ -2,7 +2,7 @@ Title: Über dieses Projekt
 slug: about
 status: hidden
 
-Vorbild und Ideengeber dieses Projekts ist das **[Resuscitation Crisis Manual](http://resuscrisismanual.com/)** von Scott Weingart und David Borshoff. In diesem großartigen Buch sind für Standard-Notfallsituationen auf jeweils zwei Seiten einfache Checklisten und kurze Erklärungen erarbeitet. Das geht auf die Erfahrung aus der Luftfahrt zurück, wo für alle Standard-Routineprozeduren Checklisten zum Einsatz kommen, damit sicher nichts Relevantes vergessen wird.
+Vorbild und Ideengeber dieses Projekts ist das **[Resuscitation Crisis Manual](http://resuscrisismanual.com/)** von Scott Weingart und David Borshoff. In diesem großartigen Buch sind für Standard-Notfallsituationen auf jeweils zwei Seiten einfache Checklisten und kurze Erklärungen erarbeitet. Das geht auf die Erfahrungen aus der Luftfahrt zurück, wo für alle Standard-Routineprozeduren Checklisten zum Einsatz kommen, damit sicher nichts Relevantes vergessen wird.
 
 Am Anfang wollten wir nur Teile dieses Manuals für den klinikinternen Einsatz ins Deutsche übersetzen. Von da war es nicht weit zu der Idee, diese Checklisten nicht auf Papier sondern als Webseite zu verteilen. Und bei der konkreten Umsetzung wurde schnell klar, dass die Inhalte nicht nur übersetzt, sondern auch aktualisiert und auf deutsche Verhältnisse angepasst werden müssen. So hat sich der Inhalt teils sehr deutlich von dem des Vorbilds entfernt.
 

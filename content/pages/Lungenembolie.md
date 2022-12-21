@@ -1,5 +1,5 @@
 Title: Schwere Lungenembolie
-Slug: lungenembolie
+Slug: schwere-lungenembolie
 Tags: TBD
 
 > Venen-Zugang, arterieller Zugang, FiO2 auf SpO2 > 90% titrieren.

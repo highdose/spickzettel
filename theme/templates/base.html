@@ -9,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet"
         href="/{{ THEME_STATIC_DIR }}/css/main02.css" />
+  <link rel="license" href="http://creativecommons.org/licenses/by/4.0/" />.
   {% endblock head %}
 </head>
 
@@ -29,11 +30,15 @@
 
     {% block footer %}
     <footer
-            class="text-lg sm:text-xl bg-slate-500 text-yellow-100 h-16 p-4 fixed bottom-0 w-full max-w-7xl">
-      <a href="/pages/about.html" class="ml-2">Über</a>
-      <a href="/pages/contribute.html" class="ml-6">Helfen</a>
-      <a href="/pages/impressum.html" class="ml-6">Impressum</a>
-      <a href="/" class="ml-6">Startseite</a>
+            class="text-lg sm:text-xl bg-slate-500 text-yellow-100 p-4 pl-6 fixed bottom-0 w-full max-w-7xl">
+      <a href="/pages/about.html" class="mr-6">Über</a>
+      <a href="/pages/contribute.html" class="mr-6">Helfen</a>
+      <a href="/pages/impressum.html" class="mr-6">Impressum</a>
+      <a href="/" class="mr-6">Startseite</a>
+      <a href="/pages/impressum#urheberrecht" class="mr-6 float-right">
+        <img class="inline" alt="Creative Commons Lizenzvertrag"
+             src="/theme/88x31.png" />
+      </a>
     </footer>
     {% endblock %}
   </div>

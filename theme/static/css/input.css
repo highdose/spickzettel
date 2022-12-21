@@ -25,10 +25,10 @@ blockquote a,
 }
 
 h2 {
-    @apply text-lg
+    @apply text-lg md:text-xl
 }
 h2, h3 {
-    @apply py-2 mt-2 font-bold
+    @apply pt-2 pb-1 mt-2 font-bold
 }
 
 p {
@@ -45,8 +45,7 @@ hr {
 }
 ul {
     list-style: disc outside;
-    margin-left: 3ex;
-    @apply py-1
+    @apply py-1 ml-5
 }
 abbr {
     text-decoration: underline dotted;

@@ -79,10 +79,20 @@
     <div class="rezeptbuttons">
       <div class="text-base">Zubereitung</div>
     </div>
-    <div class="text-base pt-2">Dosisrate: <span class="dosisrate font-bold"></span>
-    <div class="text-base pt-2">Laufrate: <span class="laufrate font-bold"></span>
-    </div>
+    <div class="text-base pt-2">Dosisrate: <span
+            class="dosisrate font-bold"></span>
+      <div class="text-base pt-2">Laufrate: <span
+              class="laufrate font-bold"></span>
+      </div>
   </aside>
+</template>
+
+<template id="dose_string_template">
+  <span class="text-gray-400">
+    (<span class="menge"></span>&nbsp;<span class="einheit"></span> /
+    <span class="volumen"></span>&nbsp;ml,
+    Laufrate <span class="laufrate">xx</span>&nbsp;ml/h)
+  </span>
 </template>
 
 <script src="/{{ THEME_STATIC_DIR }}/js/dosis.js"></script>
@@ -92,20 +102,18 @@
   const hide_btn = document.getElementById("hide-menu");
   const navigation = document.querySelector("nav");
 
-  show_btn.addEventListener("click", function (event) {
+  show_btn.addEventListener("click", event => {
     show_btn.classList.add("hidden");
     hide_btn.classList.remove("hidden");
     navigation.classList.remove("hidden");
   })
-  hide_btn.addEventListener("click", function (event) {
-    hide_btn.classList.add("hidden");
+  hide_btn.addEventListener("click", event => {
     show_btn.classList.remove("hidden");
+    hide_btn.classList.add("hidden");
     navigation.classList.add("hidden");
   })
   // 
   // Dose-Links
-  document.querySelectorAll(".doselink").forEach(element => {
-    element.addEventListener("click", open_dose_dialog);
-  });
+  connect_dose_links();
 </script>
 {% endblock %}
