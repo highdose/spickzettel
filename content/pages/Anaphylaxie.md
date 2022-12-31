@@ -53,11 +53,11 @@ Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B v
 
 ## Begleittherapie, wenn die Hämodynamik stabil ist<span id="zusatz"></span>
 
-- H1-Blocker: Dimetinden (Fenistil&reg;) 0,1&nbsp;mg/kg KG oder Clemastin (Tavegil&reg;) 0,05&nbsp;mg/kg KG)
+- H1-Blocker: Dimetinden (Fenistil&reg;) 0,1&nbsp;mg/kg KG oder Clemastin (Tavegil&reg;) 0,05&nbsp;mg/kg KG.
 - H2-Blocker: Cimetidin 300&nbsp;mg p.o. oder i.v.
 - Prednison p.o. 1&nbsp;mg/kg (maximal 50&nbsp;mg) *oder*<br>
   Hydrocortison i.v. 2-4&nbsp;mg/kg (maximal 200&nbsp;mg) *oder*<br>
-  Dexamethason i.v. 0,2-0,4&nbsp;mg/kg (maximal 10&nbsp;mg)
+  Dexamethason i.v. 0,2-0,4&nbsp;mg/kg (maximal 10&nbsp;mg).
 
 ## Weiterlesen
 

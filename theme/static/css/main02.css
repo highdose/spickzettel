@@ -608,8 +608,8 @@ video {
   margin-bottom: 0.75rem;
 }
 
-.mb-16 {
-  margin-bottom: 4rem;
+.mb-24 {
+  margin-bottom: 6rem;
 }
 
 .mr-6 {
@@ -991,6 +991,10 @@ abbr {
 }
 
 @media (min-width: 640px) {
+  .sm\:mb-16 {
+    margin-bottom: 4rem;
+  }
+
   .sm\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;

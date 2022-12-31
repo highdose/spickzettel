@@ -17,7 +17,7 @@ Keine aggressive Therapie, wenn kein Hinweis auf <a href="#endorgan">Endorgansch
 
 > Bei Vigilanzminderung an endotracheale Intubation denken.
 
-> Systematische Überprüfung <a href="#ursachen">möglicher Ursachen</a>, einschließlich Schwangerschaft und Katecholaminexzess durch Drogen oder Intoxikation.
+> Systematische Überprüfung <a href="#ursachen">möglicher Ursachen</a>.
 
 > Bei Kopfschmerzen, Krampfanfällen oder anderen neurologischen Symptomen sofortige Schädel-CT (nativ).
 
