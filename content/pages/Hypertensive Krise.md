@@ -1,8 +1,7 @@
 Title: Hypertensive Krise
 Slug: hypertensive-krise
 Authors: Johannes Ammon
-Tags: TBD
-Status: draft
+Status: published
 
 <div class="my-6 p-6 font-semibold text-xl border-solid border-2">
 Keine aggressive Therapie, wenn kein Hinweis auf <a href="#endorgan">Endorganschädigung</a> vorliegt.</div>
@@ -49,13 +48,13 @@ Das Ausmaß der Endorganschädigung bestimmt die Aggressivität der Therapie.
 
 ## Ursachen für hypertensive Notfälle<span id="ursachen"></span>
 
-- Medikamentenentzug/<wbr>mangelnde Compliance (häufigster Grund)
+- Medikamentenentzug, mangelnde Compliance (häufigster Grund)
 - Chronische Hypertonie, akut verschlechtert
-- Präeklampsie
-- Drogen (Kokain, Amphetamine, Sympathomimetika)
-- Schlaganfall/<wbr>Blutung/<wbr>Kopfverletzung
+- [Präeklampsie](#praeeklampsie)
+- Drogen ([Kokain, Amphetamine](#kokain), Sympathomimetika)
+- Schlaganfall, intrakranielle Blutung, Kopfverletzung
 - Intrakranielle Raumforderung
-- Epilepsie/<wbr>Postiktal
+- Epilepsie, Postiktal
 - Nierenarterienstenose
 - Phäochromozytom
 - Schilddrüsenerkrankung
@@ -113,6 +112,7 @@ Wegen des Risikos für Krampfanfälle im Rahmen der Eklampsie soll prophylaktisc
 Dosierung: 4 bis 6&nbsp;g als KI über 15 bis 20 min, dann <a class="dosestringlink"
     data-substanz="Magnesium"
     data-dosierung="1" data-dosierung2="2">1 bis 2&nbsp;g/h</a>.
+<!-- Überwachung der Mg-Therapie -->
 
 Kein Diazepam, Phenytoin oder andere Antikonvulsiva!
 
@@ -139,7 +139,7 @@ Geeignete Medikamente:
 
 ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. Betablocker können zur Bradykardie beim Kind führen.
 
-**Sofortige Rücksprache mit Gynäkologie/Geburtshilfe, stationäre Aufnahme.**
+**Sofortige Rücksprache mit Gynäkologie/<wbr>Geburtshilfe, stationäre Aufnahme.**
 
 ### Weiterlesen
 
@@ -150,13 +150,30 @@ ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. 
 
 ## Kokain/Amphetamin-Toxizität<span id="kokain"><span>
 
-Verwenden Sie Diazepam, Phentolamin und NTG/SNP als bevorzugte Medikamente.
-Behandeln Sie Unruhe, Bluthochdruck und Tachykardie zunächst mit Benzodiazepinen. Geben Sie blutdrucksenkende Medikamente, wenn Anzeichen einer Schädigung der Endorgane vorliegen.
-Verwenden Sie Phentolamin als Erstlinientherapie.
-Betablocker sollten vermieden werden, bis eine Alphablockade etabliert ist.
-Bei Verdacht auf koronare Vasokonstriktion NTG verwenden.
+- Bei Unruhe, Bluthochdruck und Tachykardie zunächst Gabe von **Diazepam**. Dies behandelt die psychischen Nebenwirkungen, kann aber auch den Blutdruck und die Tachykardie reduzieren.
+- Auch bei Krampfanfällen primär Benzodiazepine.
+- Keine Neuroleptika (wie Haldol) wegen Senkung der Krampfschwelle.
+- Hypertonie und Tachykardie infolge einer Kokaintoxizität erfordern nur selten eine spezifische Behandlung.
+- Blutdrucksenkung bei Anzeichen einer Endorganschädigung primär mit Alphablockern, z.B. Urapidil (es wird immer Phentolamin empfohlen, das ist in Deutschland aber nicht auf dem Markt).
+- Bei Hinweis auf Myokardischämie Nitrate und ASS.
+- Keine Betablocker vor ausreichender Alphablockade.
 
-Hypertonie und Tachykardie infolge einer Kokaintoxizität erfordern nur selten eine spezifische Behandlung. Alpha-adrenerge Antagonisten sind die bevorzugten Mittel bei kokainbedingten akuten Koronarsyndromen.
+### Arrhythmien
+
+- Bei breiten Kammerkomplexen oder Arrhythmien Natriumbikarbonat (1-2 mmol/kg).
+- Bei SVTs am ehesten Verapamil.
+- Kein Lidocain wegen der Möglichkeit, Krampfanfälle auszulösen.
+- Bei nicht beherrschbaren Arrhythmien ggf. Lipidrescue (Lipidlösung 20%, 1,5&nbsp;ml/kgKG als Bolus,  bei Persistenz der Symptome Wiederholung des Bolus nach 5 min, anschließend kontinuierliche Infusion von 0,25&nbsp;ml/kgKG/min Lipidlösung über 15 – 20 min; siehe [S1-Leitlinie der DGAI](https://www.ai-online.info/archiv/2020/06-2020/s1-leitlinie-praevention-therapie-der-systemischen-lokalanaesthetika-intoxikation-last-aktualisierte-handlungsempfehlungen-der-dgai.html)).
+
+### Hyperthermie
+
+- Engmaschige Temperaturkontrolle wegen der Gefahr einer lebensbedrohlichen Hyperthermie mit Rhabdomyolyse, Nierenschädigung und Hyperkaliämie.
+- Bei Hyperthermie physikalische Kühlung und der Minimierung der körperlichen Aktivität, d.h. ggf. medikamentöse Ruhigstellung.
+
+### Weiterlesen
+
+- [Informationszentrale gegen Vergiftungen](<https://gizbonn.de/giftzentrale-bonn/drogen/kokain>) des Universitätsklinikums Bonn
+- [Thema "Kokain" bei den ToxDocs](http://toxdocs.de/2019/kokain/)
 
 <hr/>
 
@@ -170,14 +187,13 @@ Klinisches Bild:
 
 Achtung, die Krankheit entwickelt sich in der Regel schleichend.
 
-- Früh: Kopfschmerzen, Übelkeit und Erbrechen
-- Später: nicht-fokale neurologische Symptome (Unruhe, Angst und Verwirrung)
+- Früh: Kopfschmerzen, Übelkeit und Erbrechen,
+- Später: Unruhe, Angst und Verwirrtheit.
 
-Wenn sich bei der Fundoskopie ein Papillenödem zeigt, sollte die Erkrankung als hypertensive Enzephalopathie behandelt werden.
+Differentialdiagnosen sind Schlaganfälle oder die urämische Enzephalopahtie.Pathognomonische Zeichen gibt es nicht, wenn sich bei der Fundoskopie ein Papillenödem zeigt, sollte die Erkrankung als hypertensive Enzephalopathie behandelt werden.
 
-Senke den MAP in der ersten Stunde um 10-20 % und in der Notaufnahme insgesamt um nicht mehr als 25 % (die Leitlinien empfehlen 25 % über 24 Stunden), indem Sie Clevidipin oder Nicardipin verwenden.
+Der MAP soll in der ersten Stunde um 10-20% gesenkt werden, in den ersten 24&nbsp;Stunden insgesamt um nicht mehr als 25%. Diese langsame Blutdrucksenkung soll ischämische Ereignisse verhindern. Deshalb werden kürzer wirksame Substanzen wie Urapidil unter intensivmedizinischer Überwachung eingesetzt.
 
-Zentral wirkende Antihypertensiva (Clonidin, Methyldopa oder Reserpin) solten nicht eingesetzt werden, um eine ZNS-Depression und Bewusstseinstrübung zu vermeiden.
+Zentral wirkende Antihypertensiva (Clonidin, Methyldopa) solten nicht verwendet werden, um eine ZNS-Depression und Bewusstseinstrübung zu vermeiden.
 
-Bei unzureichender Behandlung können die Symptome zu Koma oder Tod führen.
 Evtl. MRT mit der Frage nach einem Posterioren Reversiblen Enzephalopathie-Syndrom (PRES).
