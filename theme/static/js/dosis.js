@@ -93,7 +93,7 @@ function open_dose_dialog(event) {
         "kg": 80,             // - Gewicht in kg
         "dosierung": 0,       // - <mg oder µg> pro kg pro zeiteinheit
         "dosierung2": 0,      // - für Dosisbereiche
-        "faktor": 0.001,          // - Umrechnungsfaktor von Einheit der Dosisrate
+        "divisor": 1000,      // - Umrechnungsfaktor von Einheit der Dosisrate
         //   auf Einheit des Rezepts 
         "zeiteinheit": "min", // - "min" oder "h"
         "input_einheit": "µg/kg/min",  // - "µg/kg/min" o.ä.
@@ -181,7 +181,7 @@ function open_dose_dialog(event) {
     }
     // Ergebnis: z.B. mg/h
     function dosisrate(dosierung) {
-        let res = dosierung * model.kg * model.faktor;
+        let res = dosierung * model.kg / model.divisor;
         if (model.zeiteinheit == "min") {
             // return 60 * res;
             // if  res == 0.03 returns 1.7999999999999998 WTF??
@@ -195,9 +195,8 @@ function open_dose_dialog(event) {
     // Ergebnis: ml/h
     function laufrate(dosierung) {
         let res = dosierung * model.kg * model.rezept.volumen *
-            model.faktor / model.rezept.menge;
-        if (model.zeiteinheit == "min")
-            return 60 * res;
+            (model.zeiteinheit == "min" ? 60 : 1) /
+            (model.divisor * model.rezept.menge);
         return res;
     }
 }
