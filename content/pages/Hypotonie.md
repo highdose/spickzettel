@@ -55,7 +55,7 @@ Dies sind die wesentlichen Schockformen mit US-Befunden:
 
 ## Weitere Anschallungen
 
-- TVT: Bei Verdacht auf Lungenembolie (RV-Dilatation, Hypoxie, passende Klinik) ggf. Kompressionsultraschall der V. iliaca ext., femoralis und politea. Der Nachweis einer TVT könnte die Diagnose bestätigen.
+- TVT: Bei Verdacht auf Lungenembolie (RV-Dilatation, Hypoxie, passende Klinik) ggf. Kompressionsultraschall der V.&nbsp;iliaca ext., femoralis und politea. Der Nachweis einer TVT könnte die Diagnose bestätigen.
 - Ektopie: Bei positivem Schwangerschaftstest transvaginale Untersuchung zum Nachweis einer Extrauteringravidität.
 
 ## Weiterlesen

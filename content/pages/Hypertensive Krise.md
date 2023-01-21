@@ -69,34 +69,34 @@ Keine Betablocker bei Bradykardie, [akutem adrenergem Lungenödem](scape), Katec
     data-dosierung="50" data-dosierung2="300">
     50–300&nbsp;µg/kg/min</a> im Perfusor.
 
-**Metoprolol** (Wirkeintritt nach 1–2 min, Wirkdauer 5–8 h).<br/>
-2,5–5&nbsp;mg Bolus über 2&nbsp;Minuten. Je nach Wirkung alle 5 Minuten wiederholen, Maximaldosis 15&nbsp;mg.
+**Metoprolol** (Wirkeintritt nach 1–2&nbsp;min, Wirkdauer 5–8&nbsp;h).<br/>
+2,5–5&nbsp;mg Bolus über 2&nbsp;Minuten. Je nach Wirkung alle 5&nbsp;Minuten wiederholen, Maximaldosis 15&nbsp;mg.
 
-**Labetalol** (Österreich/Schweiz) (Wirkeintritt nach 5–10 min, Wirkdauer 3–6 h)<br/>
-0.25–0.5 mg/kg i.v. Bolus, dann Perfusor mit 2–4 mg/min bis das Blutdruckziel erreicht ist, danach 5–20 mg/h.
+**Labetalol** (Österreich/Schweiz) (Wirkeintritt nach 5–10&nbsp;min, Wirkdauer 3–6&nbsp;h)<br/>
+0.25–0.5&nbsp;mg/kg i.v. Bolus, dann Perfusor mit 2–4&nbsp;mg/min bis das Blutdruckziel erreicht ist, danach 5–20&nbsp;mg/h.
 
-**Urapidil** (Wirkeintritt nach 3–5 min, Wirkdauer 4–6 h)<br/>
-12.5–25 mg als Bolus, <a class="dosestringlink"
+**Urapidil** (Wirkeintritt nach 3–5&nbsp;min, Wirkdauer 4–6&nbsp;h)<br/>
+12.5–25&nbsp;mg als Bolus, <a class="dosestringlink"
     data-substanz="Urapidil"
     data-dosierung="5" data-dosierung2="40">
     5–40&nbsp;mg/h</a> im Perfusor.
 
-**Nifedipin** (Wirkeintritt nach XXX min, Wirkdauer XXX min), initial 0,5 bis 1&nbsp;mg über 5 min, dann <a class="dosestringlink"
-    data-substanz="Nifedipin"
-    data-dosierung="0.63" data-dosierung2="1.25">
-    0,63 bis 1,25&nbsp;mg/h</a>
+**Nifedipin** (Wirkeintritt nach 15&nbsp;min, Wirkdauer 2–4&nbsp;h) 5&nbsp;bis 10&nbsp;mg sublingual
 
-**Nitroglycerine** (Wirkeintritt nach 1–5 min, Wirkdauer 3–5 min)<br/>
-5–200 lg/min i.v. infusion, Headache, reflex 5 lg/min increase every 5 min tachycardia
+**Nitroglycerin** (Wirkeintritt nach 1–5&nbsp;min, Wirkdauer 3–5&nbsp;min)
+<a class="dosestringlink"
+    data-substanz="Nitroglycerin"
+    data-dosierung="0.3" data-dosierung2="24">
+    0,3&nbsp;bis 24&nbsp;mg/h</a>. Beginn mit 0,3&nbsp;mg/h, nach Wirkung alle 5&nbsp;min erhöhen.
 
-**Nitroprusside** (Wirkeintritt sofort, Wirkdauer 1–2 min)<br/>
-0.3–10 lg/kg/min i.v. infusion, increase by 0.5 lg/kg/min every 5 min until goal BP
+**Nitroprussid** (Wirkeintritt sofort, Wirkdauer 1–2&nbsp;min) <a class="doselink"
+    data-substanz="Nitroprussid"
+    data-dosierung="0.3" data-dosierung2="10">
+    0,3–10&nbsp;µg/kg/min</a>, alle 5&nbsp;min um 0,5&nbsp;µg/kg/min erhöhen, bis das Blutdruckziel erreicht ist. Sehr schnelle, dosisabhängige Wirkung, arterielle Drucküberwachung!
 
-**Enalaprilat** (Wirkeintritt nach 5–15 min, Wirkdauer 4–6 h)<br/>
-0.625–1.25 mg i.v. bolus History of angioedema
+**Enalaprilat** (Wirkeintritt nach 5–15&nbsp;min, Wirkdauer 4–6&nbsp;h), 0,625–1.25&nbsp;mg i.v.
 
-**Clonidine** (Wirkeintritt nach 30 min, Wirkdauer 4–6 h)<br/>
-150–300 µg i.v. über 5–10 min.
+**Clonidin** (Wirkeintritt nach 30&nbsp;min, Wirkdauer 4–6&nbsp;h), 150–300 µg i.v. über 5–10&nbsp;min.
 
 <hr/>
 
@@ -109,7 +109,7 @@ Ziel der Therapie ist die Vermeidung von Komplikationen bei der Mutter sowie der
 ### Antikonvulsive Therapie
 
 Wegen des Risikos für Krampfanfälle im Rahmen der Eklampsie soll prophylaktisch **Magnesium** gegeben werden.
-Dosierung: 4 bis 6&nbsp;g als KI über 15 bis 20 min, dann <a class="dosestringlink"
+Dosierung: 4 bis 6&nbsp;g als KI über 15 bis 20&nbsp;min, dann <a class="dosestringlink"
     data-substanz="Magnesium"
     data-dosierung="1" data-dosierung2="2">1 bis 2&nbsp;g/h</a>.
 <!-- Überwachung der Mg-Therapie -->
@@ -135,7 +135,7 @@ Geeignete Medikamente:
     2 - 20&nbsp;mg/h</a>
     oder 5&nbsp;mg alle 20&nbsp;min.
 
-    Achtung: Wirkeintritt nach 3-5&nbsp;min, z. T. erst nach 20&nbsp;min (insbesondere bei Bolusgabe beachten wegen häufig überschießender Wirkung). Zusätzlich 500 ml Kristalloide geben wegen der Gefahr eines überschießenden Blutdruckabfalls unter Dihydralazin.
+    Achtung: Wirkeintritt nach 3-5&nbsp;min, z. T. erst nach 20&nbsp;min (insbesondere bei Bolusgabe beachten wegen häufig überschießender Wirkung). Zusätzlich 500&nbsp;ml Kristalloide geben wegen der Gefahr eines überschießenden Blutdruckabfalls unter Dihydralazin.
 
 ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. Betablocker können zur Bradykardie beim Kind führen.
 
@@ -160,10 +160,10 @@ ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. 
 
 ### Arrhythmien
 
-- Bei breiten Kammerkomplexen oder Arrhythmien Natriumbikarbonat (1-2 mmol/kg).
+- Bei breiten Kammerkomplexen oder Arrhythmien Natriumbikarbonat (1-2&nbsp;mmol/kg).
 - Bei SVTs am ehesten Verapamil.
 - Kein Lidocain wegen der Möglichkeit, Krampfanfälle auszulösen.
-- Bei nicht beherrschbaren Arrhythmien ggf. Lipidrescue (Lipidlösung 20%, 1,5&nbsp;ml/kgKG als Bolus,  bei Persistenz der Symptome Wiederholung des Bolus nach 5 min, anschließend kontinuierliche Infusion von 0,25&nbsp;ml/kgKG/min Lipidlösung über 15 – 20 min; siehe [S1-Leitlinie der DGAI](https://www.ai-online.info/archiv/2020/06-2020/s1-leitlinie-praevention-therapie-der-systemischen-lokalanaesthetika-intoxikation-last-aktualisierte-handlungsempfehlungen-der-dgai.html)).
+- Bei nicht beherrschbaren Arrhythmien ggf. Lipidrescue (Lipidlösung 20%, 1,5&nbsp;ml/kgKG als Bolus,  bei Persistenz der Symptome Wiederholung des Bolus nach 5&nbsp;min, anschließend kontinuierliche Infusion von 0,25&nbsp;ml/kgKG/min Lipidlösung über 15 – 20&nbsp;min; siehe [S1-Leitlinie der DGAI](https://www.ai-online.info/archiv/2020/06-2020/s1-leitlinie-praevention-therapie-der-systemischen-lokalanaesthetika-intoxikation-last-aktualisierte-handlungsempfehlungen-der-dgai.html)).
 
 ### Hyperthermie
 
@@ -181,7 +181,7 @@ ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. 
 
 Klinisches Bild:
 
-- Diastolischer Blutdruck > 110 mmHg,
+- Diastolischer Blutdruck > 110&nbsp;mmHg,
 - starke Kopfschmerzen, Unruhe, Erregung, Krampfanfälle,
 - keine Anzeichen für Schlaganfall oder Blutung im Schädel-CT.
 

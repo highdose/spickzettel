@@ -45,7 +45,7 @@ Status: published
     data-substanz="Levosimendan"
     data-dosierung="0.05" data-dosierung2="0.2">
     0,05 - 0,2&nbsp;µg/kg/min
-</a> (keine Loadingdose)
+</a> (keine Loadingdose, Anwendung über 24 Std.)
 - **Milrinon**: <a class="doselink"
     data-substanz="Milrinon"
     data-dosierung="0.375" data-dosierung2="0.75">

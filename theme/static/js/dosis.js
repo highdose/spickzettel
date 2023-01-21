@@ -32,6 +32,13 @@ const perfusoren = {
     "Nifedipin": [
         { "menge": 5, "volumen": 50, "einheit": "mg", "default": true }
     ],
+    "Nitroglycerin": [
+        { "menge": 50, "volumen": 50, "einheit": "mg", "default": true }
+    ],
+    "Nitroprussid": [
+        { "menge": 60, "volumen": 50, "einheit": "mg", "default": true },
+        { "menge": 60, "volumen": 250, "einheit": "mg" }
+    ],
     "Noradrenalin": [
         { "menge": 1, "volumen": 100, "einheit": "mg" },
         { "menge": 3, "volumen": 50, "einheit": "mg" },
@@ -44,7 +51,9 @@ const perfusoren = {
 const breakpoints = {
     "sm": 640, "md": 768, "lg": 1024, "xl": 1280, "2xl": 1536
 }
-
+// Make a dialog with different weights for weight dependant dosing
+// and a simple string for non weight dependant drugs with only one 
+// concentration
 function connect_dose_links() {
     document.querySelectorAll(".doselink").forEach(element => {
         element.addEventListener("click", open_dose_dialog);
