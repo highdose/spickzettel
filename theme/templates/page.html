@@ -95,7 +95,7 @@
   </span>
 </template>
 
-<script src="/{{ THEME_STATIC_DIR }}/js/dosis.js"></script>
+<script src="/{{ THEME_STATIC_DIR }}/js/utils.js"></script>
 <script>
   // Menu
   const show_btn = document.getElementById("show-menu");
@@ -114,6 +114,6 @@
   })
   // 
   // Dose-Links
-  connect_dose_links();
+  connect_events();
 </script>
 {% endblock %}

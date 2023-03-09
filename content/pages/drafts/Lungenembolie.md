@@ -2,7 +2,7 @@ Title: Schwere Lungenembolie
 Slug: schwere-lungenembolie
 Tags: TBD
 
-> Venen-Zugang, arterieller Zugang, FiO2 auf SpO2 > 90% titrieren.
+> Venen-Zugang, arterieller Zugang, FiO<sub>2</sub> auf SpO<sub>2</sub> > 90% titrieren.
 
 > Heparinbolus, dann Perfusor in therapeutischer Dosierung.
 

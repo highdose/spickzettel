@@ -5,9 +5,9 @@ Status: published
 
 > Septischer Schock: Infektion, Hypotonie und Gewebehypoperfusion.
 
-> Sauerstoffgabe mit SpO2-Ziel ≥&nbsp;90%.
+> Sauerstoffgabe mit SpO<sub>2</sub>-Ziel ≥&nbsp;90%.
 
-> Notfalllabor, Blutkulturen, Urinkultur. Sofort Breitspektrumantibiotika in hoher Initialdosis.
+> Notfalllabor, Blutkulturen, Urinkultur.<br> Sofort Breitspektrumantibiotika in hoher Initialdosis.
 
 > Volumentherapie: Kristalloide als Bolus 500 bis 1000&nbsp;mL, dann insgesamt auf bis zu 20-30&nbsp;mL/kg ergänzen, je nach Monitoringparameter und Echobefund.
 
@@ -43,7 +43,7 @@ Noradrenalin kommt als erster Vasopressor zum Einsatz. Vasopressin hinzufügen, 
 
 Wenn die Hypotonie trotz mehrerer Vasopressoren anhält, sind Steroide sinnvoll (Hydrocortison 200&nbsp;mg/d). Wenn der Patient normalerweise hypertensiv ist, sollte der Ziel-MAP höher (z.B. 75&nbsp;mmHg) angesetzt werden.
 
-## Inotrope Therapie<span id="inotropie"></span>
+## Inotrope Therapie {: #inotropie}
 
 Dobutamin kann sinnvoll sein bei einer signifikanten myokardialen Dysfunktion und anhaltender Hypoperfusion trotz angemessenem intravaskulärem Volumen und adäquatem MAP. Supranormale Werte für HZV usw. und Blutdruck sollten dabei nicht angestrebt werden. Adrenalin in inotroper Dosierung (<a class="doselink"
     data-substanz="Adrenalin"

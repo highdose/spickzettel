@@ -3,8 +3,8 @@ Slug: hypertensive-krise
 Authors: Johannes Ammon
 Status: published
 
-<div class="my-6 p-6 font-semibold text-2xl border-solid border-2">
-Keine aggressive Therapie, wenn kein Hinweis auf <a href="#endorgan">Endorganschädigung</a> vorliegt.</div>
+Keine aggressive Therapie, wenn kein Hinweis auf [Endorganschädigung](#endorgan) vorliegt.
+{: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}
 
 > i.v.-Zugang, Monitoring.
 
@@ -16,7 +16,7 @@ Keine aggressive Therapie, wenn kein Hinweis auf <a href="#endorgan">Endorgansch
 
 > Bei Vigilanzminderung an endotracheale Intubation denken.
 
-> Systematische Überprüfung <a href="#ursachen">möglicher Ursachen</a>.
+> Systematische Überprüfung [möglicher Ursachen](#ursachen).
 
 > Bei Kopfschmerzen, Krampfanfällen oder anderen neurologischen Symptomen sofortige Schädel-CT (nativ).
 
@@ -34,7 +34,7 @@ Keine aggressive Therapie, wenn kein Hinweis auf <a href="#endorgan">Endorgansch
 
 <hr/>
 
-## Typische Endorganschäden durch Blutdruckkrisen<span id="endorgan"></span>
+## Typische Endorganschäden durch Blutdruckkrisen {: #endorgan}
 
 - Hypertensive Enzephalopathie, Apoplex, intrazerebrale Blutung
 - Angina pectoris, Myokardinfarkt (Typ 2)
@@ -46,7 +46,7 @@ Ein hypertensiver Notfall *mit Zeichen der Endorganschädigung* erfordert eine s
 
 Das Ausmaß der Endorganschädigung bestimmt die Aggressivität der Therapie.
 
-## Ursachen für hypertensive Notfälle<span id="ursachen"></span>
+## Ursachen für hypertensive Notfälle {: #ursachen}
 
 - Medikamentenentzug, mangelnde Compliance (häufigster Grund)
 - Chronische Hypertonie, akut verschlechtert
@@ -100,7 +100,7 @@ Keine Betablocker bei Bradykardie, [akutem adrenergem Lungenödem](scape), Katec
 
 <hr/>
 
-## Präeklampsie<span id="praeeklampsie"><span>
+## Präeklampsie {: #praeeklampsie}
 
 Indikation zur Akuttherapie bei RR >160&nbsp;mmHg systolisch oder  >110&nbsp;mmHg diastolisch.
 
@@ -148,7 +148,7 @@ ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. 
 
 <hr/>
 
-## Kokain/Amphetamin-Toxizität<span id="kokain"><span>
+## Kokain/Amphetamin-Toxizität {: #kokain}
 
 - Bei Unruhe, Bluthochdruck und Tachykardie zunächst Gabe von **Diazepam**. Dies behandelt die psychischen Nebenwirkungen, kann aber auch den Blutdruck und die Tachykardie reduzieren.
 - Auch bei Krampfanfällen primär Benzodiazepine.
@@ -172,12 +172,12 @@ ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. 
 
 ### Weiterlesen
 
-- [Informationszentrale gegen Vergiftungen](<https://gizbonn.de/giftzentrale-bonn/drogen/kokain>) des Universitätsklinikums Bonn
+- [Informationszentrale gegen Vergiftungen](https://gizbonn.de/giftzentrale-bonn/drogen/kokain) des Universitätsklinikums Bonn
 - [Thema "Kokain" bei den ToxDocs](http://toxdocs.de/2019/kokain/)
 
 <hr/>
 
-## Hypertensive Enzephalopathie<span id="enzephalopathie"><span>
+## Hypertensive Enzephalopathie {: #enzephalopathie}
 
 Klinisches Bild:
 

@@ -54,14 +54,6 @@ const breakpoints = {
 // Make a dialog with different weights for weight dependant dosing
 // and a simple string for non weight dependant drugs with only one 
 // concentration
-function connect_dose_links() {
-    document.querySelectorAll(".doselink").forEach(element => {
-        element.addEventListener("click", open_dose_dialog);
-    });
-    document.querySelectorAll(".dosestringlink").forEach(element => {
-        element.addEventListener("click", add_dose_string);
-    });
-}
 function add_dose_string(event) {
     const source = event.target;
     // If string has been build shown, return
@@ -218,4 +210,24 @@ function clone_template(id) {
 function rezept_string(rezept) {
     return rezept.menge + " " + rezept.einheit + " / " +
         rezept.volumen + " ml";
+}
+
+// Accordion
+function toggle_collapsed(event) {
+    const source = event.target;
+    document.getElementById(source.dataset.target).classList.toggle(
+        "collapsed");
+}
+
+// ------
+function connect_events() {
+    document.querySelectorAll(".doselink").forEach(element => {
+        element.addEventListener("click", open_dose_dialog);
+    });
+    document.querySelectorAll(".dosestringlink").forEach(element => {
+        element.addEventListener("click", add_dose_string);
+    });
+    document.querySelectorAll(".accordion").forEach(element => {
+        element.addEventListener("click", toggle_collapsed);
+    });
 }

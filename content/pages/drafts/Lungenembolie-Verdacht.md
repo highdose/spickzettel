@@ -2,17 +2,17 @@ Title: Verdacht auf Lungenembolie
 Slug: lungenembolie-verdacht
 Tags: TBD
 
-> Bei [hämodynamischer Instabilität](#instabil) weiter bei "[Schwere Lungenembolie](schwere-lungenembolie)"
+> Bei [hämodynamischer Instabilität](#instabil) weiter mit "[Schwere Lungenembolie](schwere-lungenembolie)"
 
 > [Klinische Wahrscheinlichkeit](#wells-h) einschätzen
 
-## Kriterien der hämodynamischen Instabilität<span id="instabil"></span>
+## Kriterien der hämodynamischen Instabilität {: #instabil}
 
 - Kreislaufstillstand, Reanimation oder
-- obstruktiver Schock (RR < 90 mmHg systol. oder Notwendigkeit von Vasopressoren mit Zeichen der gestörten Endorganperfusion wie Bewusstseinstrübung, Oligo-/Anurie, marmorierte Haut) oder
+- obstruktiver Schock (*RR < 90 mmHg* systol. oder Notwendigkeit von *Vasopressoren* und Zeichen der *gestörten Endorganperfusion* wie Bewusstseinstrübung, Oligo-/Anurie, marmorierte Haut) oder
 - anhaltende Hypotonie
 
-## Wells-Score für klinische Wahrscheinlichkeit<span id="wells-h"></span>
+## Wells-Score für klinische Wahrscheinlichkeit {: #wells-h}
 
 {% macro scoreinput(score, text, weight, nr) -%}
     <label for="{{ score }}{{ nr }}" class="block ">
@@ -90,6 +90,3 @@ Tags: TBD
 </div>
 
 <script src="/theme/js/lae.js"></script>
-<!-- markdownlint-disable -->
-<script>
-</script>

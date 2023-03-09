@@ -3,13 +3,12 @@ Slug: scape
 Authors: Johannes Ammon
 Status: published
 
-<div class="my-6 p-6 font-semibold text-2xl border-solid border-2">
-    Für hypertensive Patienten im schweren Lungenödem
-</div>
+Für hypertensive Patienten im schweren Lungenödem
+{: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}
 
 > i.v.-Zugang; arteriellen Zugang erwägen.
 
-> <abbr title="Nichtinvasive Beatmung">NIV</abbr> mit 100% O2. [Einstellungen](#einstellungen).
+> NIV mit 100% O<sub>2</sub>. [Einstellungen](#einstellungen).
 
 > Nitroglycerin 0,4 bis 1&nbsp;mg i.v.-Bolus geben und alle 2&nbsp;min wiederholen, wenn der Blutdruck hoch bleibt.
 
@@ -32,9 +31,10 @@ Das akute, adrenerge Lungenödem ist eine Extremform im Spektrum des akuten Lung
 
 Der Patient präsentiert sich mit **plötzlicher Atemnot** und **starker Blutdruckerhöhung** durch überschießende, adrenerge Stimulation. Man sieht ein schweres Lungenödem, aber nur geringe periphere Ödeme. Das Hauptproblem ist die sehr hohe Nachlast.
 
-Das Behandlungsprinzip ist, mit <abbr title="Nichtinvasive Beatmung">NIV</abbr> die Atmung zu unterstützen, mit i.v.-Nitraten die Nachlast zu reduzieren und die Ursachen zu behandeln. Ziel ist es, eine endotracheale Intubation zu vermeiden. Sie ist nur bei wenigen dieser Patienten nötig und birgt eigene Risiken und Probleme.
+Das Behandlungsprinzip ist, mit NIV die Atmung zu unterstützen, mit i.v.-Nitraten die Nachlast zu reduzieren und die Ursachen zu behandeln. Ziel ist es, eine endotracheale Intubation zu vermeiden. Sie ist nur bei wenigen dieser Patienten nötig und birgt eigene Risiken und Probleme.
 
-**NIV-Einstellungen**<span id="einstellungen"></span>: Die Patienten benötigen in erster Linie <abbr title="Positiver endexspiratorischer Druck">PEEP</abbr> (CPAP/EPAP). Beginn bei 5&nbsp;mbar, dann nach Erfolg und Verträglichkeit rasch hochtitrieren bis zu 15&nbsp;mbar. <abbr title"Atmungsunterstützung">ASB/IPAP</abbr> kann optional eingestellt werden.
+**NIV-Einstellungen**: Die Patienten benötigen in erster Linie PEEP (CPAP/EPAP). Beginn bei 5&nbsp;mbar, dann nach Erfolg und Verträglichkeit rasch hochtitrieren bis zu 15&nbsp;mbar. ASB/IPAP kann optional eingestellt werden.
+{: #einstellungen}
 
 Niedrig dosiertes Nitroglycerin wirkt in erster Linie auf die Vorlast, so dass hoch dosiertes Nitroglycerin erforderlich ist, um die Nachlast zu reduzieren. Die Patienten sind oft nicht akut volumenüberladen und benötigen keine Diuretika.
 
@@ -44,7 +44,8 @@ Diuretika sollten nicht frühzeitig gegeben werden. Eine akute Diurese mit Furos
 
 Die bettseitige Echokardiographie kann die Ventrikel- und Klappenfunktion bestimmen und das Lungenödem nachweisen.
 
-<div class="my-3 p-3 text-xl border-solid border-4"> Das akute Lungenödem hat eine hohe Mortalität, aber das Akute <strong>Adrenerge</strong> Lungenödem ist ein gut behandelbarer Notfall. Eine frühe Erkennung und schnelle Behandlung kann eine Intubation und Intensivbehandlung und die damit verbundene Morbidität und Mortalität vermeiden.</div>
+Das akute Lungenödem hat eine hohe Mortalität, aber das Akute **Adrenerge** Lungenödem ist ein gut behandelbarer Notfall. Eine frühe Erkennung und schnelle Behandlung kann eine Intubation und Intensivbehandlung und die damit verbundene Morbidität und Mortalität vermeiden.
+{: class="my-3 p-3 text-xl border-solid border-4"}
 
 Ursachen für ein akutes Lungenödem, die eine sofortige Intervention erfordern:
 
@@ -52,7 +53,7 @@ Ursachen für ein akutes Lungenödem, die eine sofortige Intervention erfordern:
 - Myokardinfarkt
 - Kardiomyopathie.
 
-## Weitere Diagnostik<span id="weiter"></span>
+## Weitere Diagnostik {: #weiter}
 
 - (NT-Pro-)BNP: hoher negativ-prädiktiver Wert.
 - Rö-Thorax: zur Abgrenzung von einer Pneumonie.
@@ -67,3 +68,7 @@ Ursachen für ein akutes Lungenödem, die eine sofortige Intervention erfordern:
 ## Weiterlesen
 
 - Internet Book of Critical Care: [Sympathetic Crashing Acute Pulmonary Edema (SCAPE)](https://emcrit.org/ibcc/scape/)
+
+*[NIV]: Nichtinvasive Beatmung
+*[PEEP]: Positiver endexspiratorischer Druck
+*[ASB]: Atmungsunterstützung

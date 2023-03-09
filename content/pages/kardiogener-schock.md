@@ -2,7 +2,7 @@ Title: Kardiogener Schock
 slug: kardiogener-schock
 Status: published
 
-> Sauerstoffgabe nur bei Hypoxämie, Ziel-SpO2 ≥&nbsp;90%.<br>
+> Sauerstoffgabe nur bei Hypoxämie, Ziel-SpO<sub>2</sub> ≥&nbsp;90%.<br>
 > Frühzeitige Indikation zur NIV bei Atemnot, Atemfrequenz >&nbsp;25/min.<br>
 > Intubationsindikation: anhaltende Hypoxämie, psychische Alteration.
 
@@ -65,7 +65,7 @@ Status: published
 - **NICOM** - Non Invasive Cardiac Output Monitoring
 - **FloTrac** - Arterielle Pulswellenformanalyse
 
-## Differentialdiagnose des kardiogenen Schocks<span id="diffdiag"></span>
+## Differentialdiagnose des kardiogenen Schocks {: #diffdiag}
 
 - Myokardinfarkt
 - Klappenvitium

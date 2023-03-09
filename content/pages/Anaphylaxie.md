@@ -21,16 +21,16 @@ Status: published
 > Beginne mit der [Zusatztherapie](#zusatz), sobald der Patient hämodynamisch stabil ist.
 
 <hr/>
-Der wichtigste Arzneistoff in der Akuttherapie der Anaphylaxie ist Adrenalin. Alle anderen Medikamente sind weniger potent und weniger schnell wirksam. Bevorzugter Injektionsort ist der laterale Oberschenkel. Anders als die intravenöse Gabe scheint die i.m.-Injektion ein geringes Nebenwirkungsrisiko zu haben.
+Der wichtigste Arzneistoff in der Akuttherapie der Anaphylaxie ist Adrenalin. Alle anderen Medikamente sind weniger potent, weniger gezielt und weniger schnell wirksam. Bevorzugter Injektionsort ist der laterale Oberschenkel. Anders als die intravenöse Gabe scheint die i.m.-Injektion ein geringes Nebenwirkungsrisiko zu haben.
 
-## Dosierung von Adrenalin<span id="dosis"></span>
+## Dosierung von Adrenalin {: #dosis}
 
 - **i.m. Bolus** (bevorzugt): 0,3 bis 0,5&nbsp;mg (0,3 bis 0,5&nbsp;ml unverdünntes Adrenalin)
 - **Vernebler** (bei Larynxödem, Bronchospasmus): 3 bis 5&nbsp;mg (3 bis 5&nbsp;ml unverdünntes Adrenalin)
 - **i.v. Bolus**: 5 bis 20&nbsp;µg (1&nbsp;mg Adrenalin in 100&nbsp;ml NaCl 0,9%, davon 0,5 bis 2&nbsp;ml), je nach Effekt wiederholen
 - **i.v.-Infusion**: 1 bis 20&nbsp;µg/min (Infusion mit 1&nbsp;mg in 500&nbsp;ml, 30 bis 600&nbsp;ml/h)
 
-## Alternativen bei schlechtem Ansprechen auf die konventionelle Therapie<span id="alternativen"></span>
+## Alternativen bei schlechtem Ansprechen auf die konventionelle Therapie {: #alternativen}
 
 - Adrenalin 100&nbsp;µg i.v.-Bolus (1&nbsp;mg Adrenalin in 100&nbsp;ml NaCl 0,9%, davon 10&nbsp;ml).
 - Noradrenalin-Infusion <a class="doselink"
@@ -47,11 +47,11 @@ Der wichtigste Arzneistoff in der Akuttherapie der Anaphylaxie ist Adrenalin. Al
 
     in refraktären Fällen zusätzlich kontinuierliche Infusion von 0,5&nbsp;mg/kg/Std.
 
-## <span id="intubation">Intubation</span>
+## Intubation {: #intubation}
 
 Vor dem Intubationsversuch einen chirurgischen Atemweg (Koniotomie) als Plan B vorbereiten. Wenn es die Zeit erlaubt, ggf. Wachintubation erwägen.
 
-## Begleittherapie, wenn die Hämodynamik stabil ist<span id="zusatz"></span>
+## Begleittherapie, wenn die Hämodynamik stabil ist {: #zusatz}
 
 - H1-Blocker: Dimetinden (Fenistil&reg;) 0,1&nbsp;mg/kg KG oder Clemastin (Tavegil&reg;) 0,05&nbsp;mg/kg KG.
 - H2-Blocker: Cimetidin 300&nbsp;mg p.o. oder i.v.
