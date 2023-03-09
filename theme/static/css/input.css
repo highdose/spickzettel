@@ -25,10 +25,13 @@ blockquote a,
 }
 
 h2 {
-    @apply text-lg md:text-xl
+    @apply text-lg md:text-2xl
 }
 h2, h3 {
     @apply pt-2 pb-1 mt-2 font-bold
+}
+h2 + h3 {
+    @apply pt-0
 }
 
 p {
@@ -63,4 +66,21 @@ abbr {
 }
 .calcbutton.current {
     @apply bg-yellow-600
+}
+
+summary {
+    @apply text-xl font-bold
+}
+.karte {
+    @apply m-2 py-0 px-2 max-w-sm w-full
+        align-top inline-block
+        border border-solid border-gray-400 rounded-lg;
+}
+.karte h3 {
+    @apply mt-0
+}
+@media print {
+    nav {
+        display: none;
+    }
 }

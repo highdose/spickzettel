@@ -9,7 +9,7 @@ Status: published
 
 > Herz-Kreislauf-Monitoring einleiten.
 
-> O2-Gabe mit SpO2-Ziel >&nbsp;90 %.
+> O<sub>2</sub>-Gabe mit SpO<sub>2</sub>-Ziel >&nbsp;90 %.
 
 > Evtl. Hilfe holen, Maßnahmen je nach Kompetenz delegieren.
 
@@ -25,7 +25,7 @@ Status: published
 
 <hr/>
 
-## RUSH (Rapid Ultrasound for Shock and Hypotension)<span id="RUSH"></span>
+## RUSH (Rapid Ultrasound for Shock and Hypotension) {: #RUSH}
 
 Das RUSH-Protokoll ist eine schnelle, gezielte Ultraschalluntersuchung zur Abklärung der unklaren Hypotonie.
 
