@@ -1,6 +1,7 @@
 Title: Verdacht auf Lungenembolie
 Slug: lungenembolie-verdacht
 Tags: TBD
+Sorting: 200
 
 > Bei [hämodynamischer Instabilität](#instabil) weiter mit "[Schwere Lungenembolie](schwere-lungenembolie)"
 
@@ -9,7 +10,7 @@ Tags: TBD
 ## Kriterien der hämodynamischen Instabilität {: #instabil}
 
 - Kreislaufstillstand, Reanimation oder
-- obstruktiver Schock (*RR < 90 mmHg* systol. oder Notwendigkeit von *Vasopressoren* und Zeichen der *gestörten Endorganperfusion* wie Bewusstseinstrübung, Oligo-/Anurie, marmorierte Haut) oder
+- obstruktiver Schock (*RR < 90&nbsp;mmHg* systol. oder Notwendigkeit von *Vasopressoren* und Zeichen der *gestörten Endorganperfusion* wie Bewusstseinstrübung, Oligo-/Anurie, marmorierte Haut) oder
 - anhaltende Hypotonie
 
 ## Wells-Score für klinische Wahrscheinlichkeit {: #wells-h}
@@ -62,7 +63,7 @@ Tags: TBD
     ("Maligne Erkrankung", 30),
     ("Herzinsuffizienz", 10),
     ("Puls ≥ 110/min", 20),
-    ("systolischer Blutdruck < 100 mmHg", 30),
+    ("systolischer Blutdruck < 100&nbsp;mmHg", 30),
     ("Atemfrequenz ≥ 30/min", 20),
     ("Temperatur < 36 °C", 20),
     ("verminderter Bewusstseinszustand", 60),

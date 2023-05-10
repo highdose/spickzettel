@@ -2,6 +2,7 @@ Title: Septischer Schock
 Slug: septischer-schock
 Authors: Johannes Ammon
 Status: published
+Sorting: 140
 
 > Septischer Schock: Infektion, Hypotonie und Gewebehypoperfusion.
 
@@ -23,7 +24,7 @@ Status: published
 
 > Gezielte bildgebende Diagnostik, Zuziehung weiterer Fachabteilungen für die weitere Versorgung und Focuskontrolle.
 
-<hr/>
+------------------------------------------------------------
 Die diagnostische Trias basiert auf Anzeichen einer Infektion, Hypotonie (MAP ≤&nbsp;65&nbsp;mmHg nach angemessener initialer Flüssigkeitszufuhr) und Gewebehypoperfusion (Laktat >&nbsp;2&nbsp;mmol/L, verlängerte Rekap-Zeit).
 
 Ein septischer Schock ist ein Notfall, der eine rasche klinische Diagnose und Behandlung erfordert. Die Prioritäten sind Volumen, Vasopressoren und Lokalisierung der Ursache. Eine häufige Reevaluierung ist unerlässlich.

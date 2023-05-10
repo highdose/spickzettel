@@ -1,6 +1,7 @@
 Title: Impressum
 Slug: impressum
 status: hidden
+Sorting: 900
 
 ## Verantwortlich für den Inhalt
 

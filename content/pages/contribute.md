@@ -1,6 +1,7 @@
 Title: Beitragen
 slug: contribute
 status: hidden
+Sorting: 900
 
 Ihr habt einen Fehler gefunden? Einen Verbesserungsvorschlag?
 Oder sogar neue Listen? Immer her damit!

@@ -2,6 +2,7 @@ Title: Akutes, adrenerges Lungenödem
 Slug: scape
 Authors: Johannes Ammon
 Status: published
+Sorting: 110
 
 Für hypertensive Patienten im schweren Lungenödem
 {: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}
@@ -14,7 +15,7 @@ Für hypertensive Patienten im schweren Lungenödem
 
 > Nitroglycerin-Perfusor Start mit 0,1&nbsp;mg/min (6&nbsp;mg/h), titrieren bis zu 0,4&nbsp;mg/min (24&nbsp;mg/h).
 
-> Wenn sich eine Hypotonie entwickelt, Nitroglycerin reduzieren/stoppen, evtl. 250 ml Volumenbolus geben.
+> Wenn sich eine Hypotonie entwickelt, Nitroglycerin reduzieren/stoppen, evtl. 250&nbsp;ml Volumenbolus geben.
 
 > Frühe Diuretika vermeiden.
 
@@ -25,8 +26,7 @@ Für hypertensive Patienten im schweren Lungenödem
 > Serielle EKGs und Herzenzyme mit der Frage nach Myokardischämie.
 
 > Weitere Diagnostik [siehe unten](#weiter)
-
-<hr/>
+------------------------------------------------------------
 Das akute, adrenerge Lungenödem ist eine Extremform im Spektrum des akuten Lungenödems.
 
 Der Patient präsentiert sich mit **plötzlicher Atemnot** und **starker Blutdruckerhöhung** durch überschießende, adrenerge Stimulation. Man sieht ein schweres Lungenödem, aber nur geringe periphere Ödeme. Das Hauptproblem ist die sehr hohe Nachlast.

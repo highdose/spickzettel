@@ -2,6 +2,7 @@ Title: Anaphylaktischer Schock
 Slug: anaphylaxie
 Authors: Johannes Ammon
 Status: published
+Sorting: 150
 
 > Mögliche <strong>Auslöser entfernen/&ZeroWidthSpace;beenden</strong>!&emsp;Hilfe&nbsp;rufen!
 
@@ -20,7 +21,7 @@ Status: published
 
 > Beginne mit der [Zusatztherapie](#zusatz), sobald der Patient hämodynamisch stabil ist.
 
-<hr/>
+------------------------------------------------------------
 Der wichtigste Arzneistoff in der Akuttherapie der Anaphylaxie ist Adrenalin. Alle anderen Medikamente sind weniger potent, weniger gezielt und weniger schnell wirksam. Bevorzugter Injektionsort ist der laterale Oberschenkel. Anders als die intravenöse Gabe scheint die i.m.-Injektion ein geringes Nebenwirkungsrisiko zu haben.
 
 ## Dosierung von Adrenalin {: #dosis}

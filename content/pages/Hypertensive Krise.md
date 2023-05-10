@@ -2,6 +2,7 @@ Title: Hypertensive Krise
 Slug: hypertensive-krise
 Authors: Johannes Ammon
 Status: published
+Sorting: 100
 
 Keine aggressive Therapie, wenn kein Hinweis auf [Endorganschädigung](#endorgan) vorliegt.
 {: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}
@@ -32,7 +33,7 @@ Keine aggressive Therapie, wenn kein Hinweis auf [Endorganschädigung](#endorgan
 > - [Kokain-/Amphetamintoxizität](#kokain)
 > - [Hypertensive Enzephalopathie](#enzephalopathie)
 
-<hr/>
+------------------------------------------------------------
 
 ## Typische Endorganschäden durch Blutdruckkrisen {: #endorgan}
 
@@ -96,9 +97,9 @@ Keine Betablocker bei Bradykardie, [akutem adrenergem Lungenödem](scape), Katec
 
 **Enalaprilat** (Wirkeintritt nach 5–15&nbsp;min, Wirkdauer 4–6&nbsp;h), 0,625–1.25&nbsp;mg i.v.
 
-**Clonidin** (Wirkeintritt nach 30&nbsp;min, Wirkdauer 4–6&nbsp;h), 150–300 µg i.v. über 5–10&nbsp;min.
+**Clonidin** (Wirkeintritt nach 30&nbsp;min, Wirkdauer 4–6&nbsp;h), 150–300&nbsp;µg i.v. über 5–10&nbsp;min.
 
-<hr/>
+------------------------------------------------------------
 
 ## Präeklampsie {: #praeeklampsie}
 
@@ -146,7 +147,7 @@ ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. 
 - Leitlinie "[Hypertensive Schwangerschaftserkrankungen: Diagnostik und Therapie](https://register.awmf.org/assets/guidelines/015-018l_S2k_Diagnostik_Therapie_hypertensiver_Schwangerschaftserkrankungen_2019-07.pdf)" der Deutschen, Österreichischen und Schweizerischen Gesellschaften für Gynäkologie und Geburtshilfe.
 - NICE Guideline "[Hypertension in pregnancy: diagnosis and management](https://www.nice.org.uk/guidance/ng133)".
 
-<hr/>
+------------------------------------------------------------
 
 ## Kokain/Amphetamin-Toxizität {: #kokain}
 
@@ -175,7 +176,7 @@ ACE-Hemmer, Angiotensin-II- und direkte Reninantagonisten sind kontraindiziert. 
 - [Informationszentrale gegen Vergiftungen](https://gizbonn.de/giftzentrale-bonn/drogen/kokain) des Universitätsklinikums Bonn
 - [Thema "Kokain" bei den ToxDocs](http://toxdocs.de/2019/kokain/)
 
-<hr/>
+------------------------------------------------------------
 
 ## Hypertensive Enzephalopathie {: #enzephalopathie}
 

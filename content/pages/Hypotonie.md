@@ -2,6 +2,7 @@ Title: Unklare Hypotonie
 Slug: hypotonie
 Authors: Johannes Ammon
 Status: published
+Sorting: 120
 
 > Kontrolle von Atemwege, Atmung, Kreislauf und Bewusstseinszustand (ABCD).
 
@@ -23,7 +24,7 @@ Status: published
 
 > Niedrige Schwelle für Antibiotika bei möglicher Sepsis als Ursache der Hypotonie.
 
-<hr/>
+------------------------------------------------------------
 
 ## RUSH (Rapid Ultrasound for Shock and Hypotension) {: #RUSH}
 

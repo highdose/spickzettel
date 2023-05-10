@@ -212,12 +212,6 @@ function rezept_string(rezept) {
         rezept.volumen + " ml";
 }
 
-// Accordion
-function toggle_collapsed(event) {
-    const source = event.target;
-    document.getElementById(source.dataset.target).classList.toggle(
-        "collapsed");
-}
 
 // ------
 function connect_events() {
@@ -226,8 +220,5 @@ function connect_events() {
     });
     document.querySelectorAll(".dosestringlink").forEach(element => {
         element.addEventListener("click", add_dose_string);
-    });
-    document.querySelectorAll(".accordion").forEach(element => {
-        element.addEventListener("click", toggle_collapsed);
     });
 }

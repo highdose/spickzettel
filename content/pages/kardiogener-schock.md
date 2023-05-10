@@ -1,6 +1,7 @@
 Title: Kardiogener Schock
 slug: kardiogener-schock
 Status: published
+Sorting: 130
 
 > Sauerstoffgabe nur bei Hypoxämie, Ziel-SpO<sub>2</sub> ≥&nbsp;90%.<br>
 > Frühzeitige Indikation zur NIV bei Atemnot, Atemfrequenz >&nbsp;25/min.<br>
@@ -18,7 +19,7 @@ Status: published
 
 > Überprüfe die [Differentialdiagnosen](#diffdiag).
 
-> Evtl. Volumenmangel ausgleichen. Bei persistierender Hypotonie Noradrenalinperfusor, um einen MAP ≥ 65 mmHg zu erreichen. Bei RV-Infarkt großzügige Volumengabe.
+> Evtl. Volumenmangel ausgleichen. Bei persistierender Hypotonie Noradrenalinperfusor, um einen MAP ≥ 65&nbsp;mmHg zu erreichen. Bei RV-Infarkt großzügige Volumengabe.
 
 > ZVK, arterieller Zugang und Blasenkatheter.
 
@@ -29,8 +30,10 @@ Status: published
 > Evtl. mechanische Kreislaufunterstützung (z.B. Impella&reg;).
 > Bei möglicher ECMO-Indikation frühzeitige Kontaktaufnahme mit dem ECMO-Team.
 
-<hr>
+------------------------------------------------------------
+
 ## Medikamenten-Dosierung
+
 - **Noradrenalin**: Beginn mit 5&nbsp;µg/min und Titration auf <a class="doselink"
     data-substanz="Noradrenalin"
     data-dosierung="1">
@@ -45,7 +48,7 @@ Status: published
     data-substanz="Levosimendan"
     data-dosierung="0.05" data-dosierung2="0.2">
     0,05 - 0,2&nbsp;µg/kg/min
-</a> (keine Loadingdose, Anwendung über 24 Std.)
+</a> (keine Loadingdose, Anwendung über 24&nbsp;Std.)
 - **Milrinon**: <a class="doselink"
     data-substanz="Milrinon"
     data-dosierung="0.375" data-dosierung2="0.75">

@@ -5,8 +5,8 @@ SITEURL = ""
 PATH = "content"
 THEME = "theme"
 TIMEZONE = "Europe/Berlin"
-STATIC_PATHS = []
-JINJA2CONTENT_TEMPLATES = ["../tools"]
+STATIC_PATHS = ["sw.js"]
+# JINJA2CONTENT_TEMPLATES = ["../tools"]
 OUTPUT_PATH = "output/"
 DEFAULT_DATE = "fs"
 DEFAULT_DATE_FORMAT = "%d.%m.%Y"
@@ -35,10 +35,12 @@ DELETE_OUTPUT_DIRECTORY = True
 # RELATIVE_URLS = True
 
 MARKDOWN = {
-    'extension_configs': {
+    "extension_configs": {
         # 'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
     },
-    'output_format': 'html5',
+    "output_format": "html5",
 }
+
+PAGE_ORDER_BY = "sorting"
