@@ -3973,6 +3973,10 @@ abbr {
   margin-top: 0px;
 }
 
+.kasten.hidden {
+  display: none;
+}
+
 /* Heparin */
 
 .heparin_table td {

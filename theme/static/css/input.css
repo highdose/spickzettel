@@ -73,14 +73,17 @@ abbr {
 }
 
 /* Intubation */
-.narkose {
+.kasten {
     @apply my-2 py-0 px-2 w-full
         align-top inline-block
-        border border-solid border-gray-400 rounded-lg
+        border border-solid border-gray-400 rounded-md
         bg-amber-50;
 }
-.narkose h3 {
+.kasten h3 {
     @apply mt-0
+}
+.kasten.hidden {
+    display: none;
 }
 
 /* Heparin */

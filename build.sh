@@ -1,2 +1,2 @@
-npx tailwindcss -i ./theme/static/css/input.css -o ./theme/static/css/main02.css
+npx tailwindcss -i ./theme/static/css/input.css -o ./theme/static/css/main03.css
 ./venv/bin/pelican ./content/

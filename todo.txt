@@ -1,8 +1,6 @@
-Popup-Seiten für Dosierungen
-Nutzungsstatistik
-Thema DKA
-Thema Intubation/Einleitung bei kritisch Kranken
-Erklärungen zu Nitroprussid
-Überwachung der Mg-Therapie bei Präeklampsie
-Empfehlung für erste Antibiotika bei Sepsis
-Logo bauen oder generieren
+(B) Nutzungsstatistik
+(A) Thema DKA
+(B) Erklärungen zu Nitroprussid
+(B) Überwachung der Mg-Therapie bei Präeklampsie
+(A) Mechanismus für Offline-Funktion überarbeiten
+(A) Aktionen wie publish formalisieren

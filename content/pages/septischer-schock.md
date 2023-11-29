@@ -31,7 +31,9 @@ Ein septischer Schock ist ein Notfall, der eine rasche klinische Diagnose und Be
 
 ## Antimikrobielle Therapie
 
-Es sollten sofort mikrobiologische Kulturen von Blut, Urin und ggf. Trachealsekret/Sputum oder Punktaten angelegt werden. Breitbandantibiotika, die jede mögliche Ursache abdecken, sollten umgehend begonnen werden. Die Keimgewinnung darf die Antibiose nicht verzögern.
+Es sollten sofort mikrobiologische Kulturen von Blut, Urin und ggf. Trachealsekret/Sputum oder Punktaten angelegt werden.
+
+Breitbandantibiotika, die jede mögliche Ursache abdecken, sollten in der ersten Stunde begonnen werden. Die Keimgewinnung darf die Antibiose nicht verzögern. Zur Auswahl des Medikaments lokale Leitlinien berücksichtigen.
 
 ## Vasopressoren-Therapie
 

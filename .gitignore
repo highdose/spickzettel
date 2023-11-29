@@ -1,4 +1,5 @@
 venv
+tools/logo
 __pycache__
 output
 *.bak

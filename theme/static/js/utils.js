@@ -1,3 +1,8 @@
+// .doselink: Click opens a dialog for finding the infusion rate  
+//            depending on body weight and drug concentration
+//            (open_dose_dialog)
+// .dosestringlink: Click adds an inline explanation for the infusion rate 
+//                  (add_dose_string)
 //
 const weights = [40, 50, 60, 80, 100, 120];
 const perfusoren = {

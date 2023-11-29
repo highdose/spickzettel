@@ -1,6 +1,13 @@
+""" 
+- Read access.logs
+- extract accesses to high-dose.net
+- write data to a csv file
+
+"""
+
 import configparser
 import re
-from collections import defaultdict, Counter
+from collections import defaultdict, Counter, namedtuple
 from datetime import datetime
 from pathlib import Path
 
@@ -14,6 +21,7 @@ LAST_READ_FILE = CURR_DIR / ".lastread.txt"
 PATTERN = r'\S* (?P<ip>\S*) \S+ \S+ \[(?P<date>.*?)\] "\w+ (?P<url>\S+) \S+?" (?P<status>\d+)'
 pattern = re.compile(PATTERN)
 
+# The number of the month
 MONTH_NR = {
     k: v + 1
     for v, k in enumerate(
@@ -60,8 +68,6 @@ class AccessCounter:
     def __init__(self) -> None:
         self.successes = list()  # urls
         self.failures = list()
-        self.success_ips = set()  # ips
-        self.failure_ips = set()
 
 
 days = defaultdict(AccessCounter)
@@ -80,10 +86,8 @@ def process_access(ip: str, date: str, url: str, status: str, last_line: bool):
     d = dt.date()
     if int(status) < 400:
         days[d].successes.append(url)
-        days[d].success_ips.add(ip)
     else:
         days[d].failures.append(url)
-        days[d].failure_ips.add(ip)
     return True
 
 
@@ -93,14 +97,11 @@ for path in Path(config["high-dose"]["logs"]).iterdir():
         print(f"Reading {path}")
         with open(path, "r") as logfile:
             last_line = True
-            lines = list(reversed(logfile.readlines()))
-            print(len(lines), "lines")
-            for line in lines:
+            lines = list(logfile.readlines())
+            for line in reversed(lines):
                 if line.startswith("high"):
-                    print(line)
                     match = pattern.match(line)
                     if match is not None:
-                        print("  ", line)
                         if not process_access(
                             last_line=last_line, **match.groupdict()
                         ):
@@ -115,9 +116,7 @@ with open(Path(config["high-dose"]["output"]) / "results.txt", "w") as outfile:
 
     write("Auswertung highdose\n")
     successes = Counter()
-    success_ips = set()
     failures = Counter()
-    failure_ips = set()
     for day, ac in sorted(days.items()):
         write(f"\n{day}")
         write(f"{len(ac.successes)} Zugriffe")

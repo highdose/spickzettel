@@ -8,7 +8,7 @@
   <meta name="generator" content="Pelican" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet"
-        href="/{{ THEME_STATIC_DIR }}/css/main02.css" />
+        href="/{{ THEME_STATIC_DIR }}/css/main03.css" />
   <link rel="license" href="http://creativecommons.org/licenses/by/4.0/" />
   {% block extrahead %}{% endblock extrahead %}
   {% endblock head %}
@@ -43,6 +43,14 @@
     </footer>
     {% endblock %}
   </div>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('/sw.js');
+      });
+    }
+  </script>
+
 </body>
 
 </html>
