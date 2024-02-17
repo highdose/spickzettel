@@ -20,14 +20,14 @@
     <header class="text-4xl p-4 font-semibold bg-red-400">
       {% block header %}{% endblock %}
     </header><!-- /#banner -->
-    <article class="grid grid-cols-1 
+    <div class="grid grid-cols-1 
                     md:grid-cols-[minmax(260px,_25%)_1fr] mb-24 sm:mb-16">
       {% block navigation %}
       {% endblock navigation %}
 
       {% block content %}
       {% endblock %}
-    </article>
+    </div>
 
     {% block footer %}
     <footer

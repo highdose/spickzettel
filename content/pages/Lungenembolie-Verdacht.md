@@ -2,9 +2,10 @@ Title: Verdacht auf Lungenembolie
 Slug: lungenembolie-verdacht
 Tags: TBD
 Status: published
-Sorting: 200
+Sorting: 150
 
-> Bei hämodynamischer Instabilität (Kreislaufstillstand, Schock, anhaltende Hypotonie) weiter mit "[Schwere Lungenembolie](schwere-lungenembolie)".
+Bei hämodynamischer Instabilität (Kreislaufstillstand, Schock, anhaltende Hypotonie) weiter mit "[Schwere Lungenembolie](schwere-lungenembolie)".
+{: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}
 
 > [Klinische Wahrscheinlichkeit](#rGeneva-h) einschätzen.
 
@@ -14,7 +15,7 @@ Sorting: 200
 
 > Mittlere oder hohe Wahrscheinlichkeit oder positive D-Dimere: Antikoagulation mit NMH, Fondaparinux oder [Heparin](heparin)-Bolus geben, erst dann weitere Diagnostik.
 
-> Risikoeinschätzung durch [PESI-Score](#pesi-h) und ggf. Bestimmung von Troponin und Echokardiographie.
+> Risikoeinschätzung durch [PESI-Score](#pesi-h), dann ggf. Bestimmung von Troponin und Echokardiographie.
 
 ---
 Wegen der unspezifischen Symptomatik gehört eine Lungenembolie nicht selten zu den Differentialdiagnosen. Eine übersehene Lungenembolie hätte gravierende Folgen. Eine Überdiagnostik wäre mit unnötiger Strahlenbelastung, Risiken und Kosten verbunden. Deshalb muss sich das Ausmaß der Diagnostik an der klinischen Wahrscheinlichkeit orientieren. Neben dem "klinischen Blick" wird dafür der [Geneva-Score](#rGeneva-h) herangezogen.
@@ -60,15 +61,15 @@ Die Intensität der Therapie richtet sich dann nach dem kurzfristigen Letalität
 {% endfor %}
 </div>
 
-**Geringe Wahrscheinlichkeit für eine Lungenembolie.**
+**Geringe Wahrscheinlichkeit für eine Lungenembolie.** <br>
 Wenn keines der PERC-Kriterien zutrifft oder die D-Dimere nicht erhöht sind, ist keine weitere Diagnostik nötig.
 {: .low .rGeneva-output .kasten  }
 
-**Mittlere Wahrscheinlichkeit für eine Lungenembolie.**
+**Mittlere Wahrscheinlichkeit für eine Lungenembolie.** <br>
 Wenn die hochsensitive D-Dimer-Bestimmung im Normbereich liegt, kann die Diagnostik beendet werden.
 {: .intermediate .rGeneva-output .kasten .hidden }
 
-**Hohe Wahrscheinlichkeit für eine Lungenembolie.**
+**Hohe Wahrscheinlichkeit für eine Lungenembolie.** <br>
 Weitere Abklärung indiziert, in der Regel mit CT-Angiographie des Thorax oder Ventilations-Perfusions-Szintigraphie. Echokardiographie zur Risikoabschätzung.
 {: .high .rGeneva-output .kasten .hidden }
 
@@ -144,3 +145,10 @@ Bei Rechts-Herz-Belastung im Echo und Troponinerhöhung weiter mit "<a href="sch
 *[NMH]: Niedermolekulares Heparin
 
 <script src="/theme/js/lae1.js"></script>
+<script>
+    // this is for page reloads with checked boxes
+    window.addEventListener("load", () => {
+        calc_score("rGeneva");
+        calc_score("pesi");
+    });
+</script>

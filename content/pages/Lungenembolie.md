@@ -2,7 +2,7 @@ Title: Schwere Lungenembolie
 Slug: schwere-lungenembolie
 Tags: TBD
 Status: published
-Sorting: 210
+Sorting: 160
 
 > Monitorüberwachung, Venen-Zugang, arterieller Zugang, FiO<sub>2</sub> auf SpO<sub>2</sub> > 90% titrieren.
 

@@ -43,7 +43,7 @@
 {% endblock %}
 
 {% block content %}
-<div class="content mt-2 px-2 md:text-lg">
+<article class="content mt-2 px-2 md:text-lg">
   {{ page.content }}
 
   {% if page.modified %}
@@ -51,7 +51,7 @@
     Letzte Überarbeitung: {{ page.locale_modified }}
   </p>
   {% endif %}
-</div>
+</article>
 
 <template id="button_template">
   <button class="calcbutton"></button>

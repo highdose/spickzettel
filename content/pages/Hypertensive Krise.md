@@ -2,7 +2,7 @@ Title: Hypertensive Krise
 Slug: hypertensive-krise
 Authors: Johannes Ammon
 Status: published
-Sorting: 100
+Sorting: 200
 
 Keine aggressive Therapie, wenn kein Hinweis auf [Endorganschädigung](#endorgan) vorliegt.
 {: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}

@@ -1,6 +1,8 @@
 (B) Nutzungsstatistik
-(A) Thema DKA
-(B) Erklärungen zu Nitroprussid
-(B) Überwachung der Mg-Therapie bei Präeklampsie
-(A) Mechanismus für Offline-Funktion überarbeiten
-(A) Aktionen wie publish formalisieren
+(B) Thema DKA
+(C) Erklärungen zu Nitroprussid
+(C) Überwachung der Mg-Therapie bei Präeklampsie
+(B) Mechanismus für Offline-Funktion überarbeiten
+(B) doselink für Perfusor unabhängig von Körpergewicht (Noradrenalin 100 µg/h)
+(A) Plan machen, um das Projekt bekannt zu machen
+(B) Vorschalttext für englische Leser

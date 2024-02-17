@@ -2,7 +2,7 @@ Title: Anaphylaktischer Schock
 Slug: anaphylaxie
 Authors: Johannes Ammon
 Status: published
-Sorting: 150
+Sorting: 125
 
 > Mögliche <strong>Auslöser entfernen/&ZeroWidthSpace;beenden</strong>!&emsp;Hilfe&nbsp;rufen!
 

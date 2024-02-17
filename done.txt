@@ -5,3 +5,4 @@ x 2023-11-29 Thema Intubation/Einleitung bei kritisch Kranken
 x 2023-11-29 Empfehlung für erste Antibiotika bei Sepsis
 x 2023-11-29 Logo bauen oder generieren
 x 2023-11-29 Popup-Seiten für Dosierungen
+x 2023-11-30 Aktionen wie publish formalisieren

@@ -32,9 +32,10 @@ Sorting: 130
 
 ------------------------------------------------------------
 
+
 ## Medikamenten-Dosierung
 
-- **Noradrenalin**: Beginn mit 5&nbsp;µg/min und Titration auf <a class="doselink"
+- **Noradrenalin**: Beginn mit 5&nbsp;µg/min und Titration auf bis zu <a class="doselink"
     data-substanz="Noradrenalin"
     data-dosierung="1">
     1&nbsp;µg/kg/min
@@ -60,18 +61,10 @@ Sorting: 130
     2,5 - 10&nbsp;µg/kg/min
 </a>
 
-## Methoden zur Messung des Herzzeitvolumens
+## Ursachen des kardiogenen Schocks {: #diffdiag}
 
-- **TTE** - Transthorakale Echokardiographie
-- **PiCCO** - Pulse Contour Cardiac Output
-- **LiDCO** - Lithium-Verdünnungs-Herzzeitvolumen
-- **NICOM** - Non Invasive Cardiac Output Monitoring
-- **FloTrac** - Arterielle Pulswellenformanalyse
-
-## Differentialdiagnose des kardiogenen Schocks {: #diffdiag}
-
-- Myokardinfarkt
-- Klappenvitium
+- Myokardinfarkt (am häufigsten, ca. 80%): sofortige Coronarintervention anstreben.
+- Klappenvitium: akute Endokarditis, Papillarmuskelabriss nach Infarkt, Chordaruptur, Aortendissektion, Trauma, Tachykardie bei hochgradiger Aortenklappenstenose.
 - Kardiomyopathie (einschließlich Peripartum und Takotsubo)
 - Myokarditis
 - Perikarditis
@@ -86,6 +79,15 @@ Sorting: 130
 - Pneumothorax
 - Sepsis
 - Aspirinintoxikation
+
+## Methoden zur Messung des Herzzeitvolumens
+
+- **TTE** - Transthorakale Echokardiographie
+- **PiCCO** - Pulse Contour Cardiac Output
+- **LiDCO** - Lithium-Verdünnungs-Herzzeitvolumen
+- **NICOM** - Non Invasive Cardiac Output Monitoring
+- **FloTrac** - Arterielle Pulswellenformanalyse
+
 
 ## Gefäßzugänge
 

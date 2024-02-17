@@ -2,7 +2,7 @@ Title: Akutes, adrenerges Lungenödem
 Slug: scape
 Authors: Johannes Ammon
 Status: published
-Sorting: 110
+Sorting: 210
 
 Für hypertensive Patienten im schweren Lungenödem
 {: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}
