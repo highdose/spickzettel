@@ -6,3 +6,4 @@ x 2023-11-29 Empfehlung für erste Antibiotika bei Sepsis
 x 2023-11-29 Logo bauen oder generieren
 x 2023-11-29 Popup-Seiten für Dosierungen
 x 2023-11-30 Aktionen wie publish formalisieren
+x 2024-02-18 Kardiogener Schock überarbeiten

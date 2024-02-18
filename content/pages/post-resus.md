@@ -51,7 +51,7 @@ Lungenprotektive Beatmung: Tidalvolumen 6–8&nbsp;ml/kg KG, Inspirationsdruck <
 - **Anamnestische Fragen** (sofern noch nicht geklärt): Wurde das Ereignis beobachtet? Gab es eine Laienreanimation? Wie lange war die Zeit ohne CPR (no-flow) und mit CPR (low-flow)? Was ging dem Ereignis voraus, was ist der klinische Kontext?
 - **Weitere Diagnostik**: Nasogastrale Sonde. Röntgen-Thorax (Tubustiefe, Komplikationen).
 
-## 5 **H**s und 5 **T**s
+## 5 **H**s und 5 **T**s – reversible Ursachen des Kreislaufstillstands
 
 - **H**ypovolämie
 - **H**ypoxie

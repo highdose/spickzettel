@@ -32,7 +32,6 @@ Sorting: 130
 
 ------------------------------------------------------------
 
-
 ## Medikamenten-Dosierung
 
 - **Noradrenalin**: Beginn mit 5&nbsp;µg/min und Titration auf bis zu <a class="doselink"
@@ -61,33 +60,20 @@ Sorting: 130
     2,5 - 10&nbsp;µg/kg/min
 </a>
 
+Die Wirkung der positiv inotropen Substanzen (Dobutamin, Levosimendan, Milrinon, Enoximon) sollte durch HZV-Messung objektiviert und gesteuert werden. Geeignete Methoden sind Echokardiographie, Pulse Contour Cardiac Output (PiCCO), Lithium-Verdünnungs-Herzzeitvolumen (LiDCO), Non Invasive Cardiac Output Monitoring (NICOM) oder Arterielle Pulswellenformanalyse (FloTrac).
+
 ## Ursachen des kardiogenen Schocks {: #diffdiag}
 
 - Myokardinfarkt (am häufigsten, ca. 80%): sofortige Coronarintervention anstreben.
 - Klappenvitium: akute Endokarditis, Papillarmuskelabriss nach Infarkt, Chordaruptur, Aortendissektion, Trauma, Tachykardie bei hochgradiger Aortenklappenstenose.
-- Kardiomyopathie (einschließlich Peripartum und Takotsubo)
-- Myokarditis
-- Perikarditis
-- Perikardtamponade
-- Lungenembolie
-- Papillarmuskelruptur
-- Ventrikelwandruptur
 - Rhythmusstörungen
-- Intoxikationen
-- Stoffwechselstörung
-- Thyreotoxische Krise
+- Myokarditis, Kardiomyopathie (einschließlich Peripartum und Takotsubo)
+- Perikarditis, Perikardtamponade
+- Lungenembolie
+- Ventrikelwandruptur nach Infarkt
+- Intoxikationen, Stoffwechselstörung, Thyreotoxische Krise
 - Pneumothorax
 - Sepsis
-- Aspirinintoxikation
-
-## Methoden zur Messung des Herzzeitvolumens
-
-- **TTE** - Transthorakale Echokardiographie
-- **PiCCO** - Pulse Contour Cardiac Output
-- **LiDCO** - Lithium-Verdünnungs-Herzzeitvolumen
-- **NICOM** - Non Invasive Cardiac Output Monitoring
-- **FloTrac** - Arterielle Pulswellenformanalyse
-
 
 ## Gefäßzugänge
 

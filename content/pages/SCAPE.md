@@ -26,6 +26,7 @@ Für hypertensive Patienten im schweren Lungenödem
 > Serielle EKGs und Herzenzyme mit der Frage nach Myokardischämie.
 
 > Weitere Diagnostik [siehe unten](#weiter)
+
 ------------------------------------------------------------
 Das akute, adrenerge Lungenödem ist eine Extremform im Spektrum des akuten Lungenödems.
 

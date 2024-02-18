@@ -54,7 +54,7 @@ Dobutamin kann sinnvoll sein bei einer signifikanten myokardialen Dysfunktion un
 
 ## Volumentherapie
 
-Zur Volumentherapie wird primär isotonische, kristalloide Lösung empfohlen. Eine balancierte Lösung (z. B. Ringer-Laktat, Jonosteril&reg;, Sterofundin&reg; usw.) ist wahrscheinlich der NaCl-0,9% vorzuziehen; es gibt Hinweise auf eine geringere Mortalität und ein geringeres Risiko für Nierenschädigung.
+Zur Volumentherapie wird primär isotonische, kristalloide Lösung empfohlen. Eine balancierte Lösung (z. B. Ringer-Laktat, Jonosteril&reg;, Sterofundin&reg; usw.) ist wahrscheinlich der NaCl 0,9% vorzuziehen; es gibt Hinweise auf eine geringere Mortalität und ein geringeres Risiko für Nierenschädigung.
 
 Es gibt keinen eindeutigen Nutzen (oder Schaden) von Albumin.
 

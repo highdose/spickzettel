@@ -32,7 +32,7 @@ Das RUSH-Protokoll ist eine schnelle, gezielte Ultraschalluntersuchung zur Abkl�
 
 Folgende Anschallpunkte sind wichtig:
 
-**Herz** (subcostal für schnellen Überblick, parasternal und apikal für Kenner): Wenig gefüllte, hyperdyname Herzhöhlen deuten auf Volumenmangel oder septisches Kreislaufversagen. Beim kardiogenen Schock sieht man die Wandbewegungsstörung oder den Klappenfehler.
+**Herz** (subcostal für schnellen Überblick, parasternal und apikal für Kenner): Wenig gefüllte, hyperdyname Herzhöhlen deuten auf Volumenmangel oder septisches Kreislaufversagen. Beim kardiogenen Schock sieht man die Wandbewegungsstörung, den großen Perikarderguss oder den Klappenfehler.
 
 **V. cava inferior**: Der Füllungszustand der V.c.i. und vor allem die Atemvariabilität ist ein gutes Maß für die Vorlast des rechten Ventrikels. Cave: eine Trikuspidalinsuffizienz kann hier eine Volumenüberladung vortäuschen.
 
@@ -45,6 +45,7 @@ Folgende Anschallpunkte sind wichtig:
 **Lunge** bds.: Fehlendes Lungengleiten bei Pneumothorax, Pleuraergüsse, Infiltrate, B-Linien bei Stauung oder interstitiellen Lungenerkrankungen.
 
 Dies sind die wesentlichen Schockformen mit US-Befunden:
+{: style="margin-top: 1.5rem;"}
 
 **Hypovoläm**: Herzhöhlen wenig gefüllt, vor allem RV und RA. V.c.i. schmal und atemkollaptisch. Im Abdomen evtl. freie Flüssigkeit (Extrauteringravidität, intraabdominelle Blutung). Evtl. Bauchaortenaneurysma, Aortendissektion.
 

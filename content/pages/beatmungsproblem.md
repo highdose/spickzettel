@@ -46,7 +46,7 @@ Indem man den Patienten von Hand mit dem Beutel beatmet, kann man diese ganze Pr
 ### Tubusdislokation
 
 - Tubus zu tief: Schlechtere Compliance, einseitiges Atemgeräusch, einseitige Thoraxbewegung.
-- Tubus nicht tief genug: Leckage trotz mehrfachem Nachblocken des Cuffs. **Achtung: Akute Gefahr des Verlusts des Atemwegs**. Die Tubustiefe gemessen von Zahnreihe/Mundwinkel ist nicht immer hilfreich, weil der Tubus im Rachen gebogen verlaufen kann.
+- Tubus nicht tief genug: Leckage trotz mehrfachem Nachblocken des Cuffs. **Achtung: Akute Gefahr für einen Verlust des Atemwegs**. Die Tubustiefe gemessen von Zahnreihe/Mundwinkel ist nicht immer hilfreich, weil der Tubus im Rachen gebogen verlaufen kann.
 
     Ggf. Narkose vertiefen, unter (Re-)Intubationsbereitschaft laryngoskopieren, Cuff entblocken und Tubus neu platzieren, ggf. ersetzen.
 
@@ -72,10 +72,12 @@ Bei obstruktiven Patienten kann die erschwerte Exspiration durch Airtrapping zu 
 
 Die Akuttherapie ist die Diskonnektion vom Beatmungsgerät, um eine Ausatmung zu ermöglichen. Diese kann wegen der Obstruktion lange dauern, aber dann müsste der Blutdruck rasch wieder ansteigen. Anschließend Beatmungsparameter anpassen: lange Exspirationszeit, kurze Inspiration, niedrige Beatmungsfrequenz.
 
----------------
+## Parallel arbeiten
 
-Idealerweise sollten die Maßnahmen parallel erfolgen, wobei sich ein Bediener auf die Atemwege konzentriert, während ein zweiter Bediener einen eventuellen Pneumothorax feststellt und behandelt.
-Die kontinuierliche Kapnographie bestätigt die Beatmung, aber die Position des Tubus muss auch durch Laryngoskopie oder Bronchoskopie überprüft werden. Ziehen Sie eine Ultraschalluntersuchung in Betracht, um die Hauptstammintubation zu beurteilen, und tasten Sie den Manschettenballon ab, um die Integrität der Manschette zu überprüfen.
+Idealerweise sollte eine Person sich auf die Atemwege konzentrieren, während die zweite einen eventuellen Pneumothorax feststellt und behandelt.
+
+Wenn in der kontinuierlichen Kapnographie CO2 zurück kommt, ist der Patient beatmet. Zusätzlich muss die Position des Tubus auch durch Laryngoskopie oder Bronchoskopie überprüft werden.
+Ziehen Sie eine Ultraschalluntersuchung in Betracht, um die Hauptstammintubation zu beurteilen, und tasten Sie den Manschettenballon ab, um die Integrität der Manschette zu überprüfen.
 Wenn eine flexible Bronchoskopie sofort verfügbar ist, kann sie gleichzeitig die Tubusposition bestätigen und eine Obstruktion ausschließen.
 Steht keine Bronchoskopie zur Verfügung, kann ein Austausch des Tubus erforderlich sein, um eine Kugelventilobstruktion auszuschließen.
 Ein fehlendes Lungengleiten im Ultraschall deutet auf einen Pneumothorax oder eine Hauptstammintubation hin. Ersteres sollte sofort mit einer Fingerthorakostomie behandelt werden.

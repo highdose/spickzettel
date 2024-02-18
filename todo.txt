@@ -6,3 +6,5 @@
 (B) doselink für Perfusor unabhängig von Körpergewicht (Noradrenalin 100 µg/h)
 (A) Plan machen, um das Projekt bekannt zu machen
 (B) Vorschalttext für englische Leser
+(A) Anleitung für Contributors
+(A) Beatmungsproblem fertigstellen

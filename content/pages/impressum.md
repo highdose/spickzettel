@@ -8,7 +8,7 @@ Sorting: 900
 Dr. med. Johannes Ammon<br>Bergstr. 6<br>33098 Paderborn
 
 Die Inhalte dieser Seiten geben die Meinung der jeweiligen Autor/innen wieder
-und nicht die ihrer Arbeitgeber oder Vorgesetzten.
+und nicht unbedingt die ihrer Arbeitgeber oder Vorgesetzten.
 Sie sind mit Sorgfalt erstellt, dürfen aber nicht ungeprüft
 zur Grundlage therapeutischer Entscheidungen gemacht werden.
 

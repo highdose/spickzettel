@@ -13,20 +13,20 @@ from pathlib import Path
 
 CURR_DIR = Path(__file__).resolve().parent
 BASE_DIR = CURR_DIR.parent
-CONFIG_FILE = BASE_DIR / ".highdose.cnf"
+CONFIG_FILE = CURR_DIR / ".highdose.cnf"
 LAST_READ_FILE = CURR_DIR / ".lastread.txt"
 
 # Format:
 # high-dose.net:443 2a02:3031:: - - [26/Nov/2022:06:12:07 +0100] "GET / HTTP/2.0" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:107.0) Gecko/20100101 Firefox/107.0"
-PATTERN = r'\S* (?P<ip>\S*) \S+ \S+ \[(?P<date>.*?)\] "\w+ (?P<url>\S+) \S+?" (?P<status>\d+)'
+PATTERN = (
+    r'\S* (?P<ip>\S*) \S+ \S+ \[(?P<date>.*?)\] "\w+ (?P<url>\S+) \S+?" (?P<status>\d+)'
+)
 pattern = re.compile(PATTERN)
 
 # The number of the month
 MONTH_NR = {
     k: v + 1
-    for v, k in enumerate(
-        "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
-    )
+    for v, k in enumerate("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split())
 }
 
 
@@ -102,9 +102,7 @@ for path in Path(config["high-dose"]["logs"]).iterdir():
                 if line.startswith("high"):
                     match = pattern.match(line)
                     if match is not None:
-                        if not process_access(
-                            last_line=last_line, **match.groupdict()
-                        ):
+                        if not process_access(last_line=last_line, **match.groupdict()):
                             break
                     last_line = False
 
