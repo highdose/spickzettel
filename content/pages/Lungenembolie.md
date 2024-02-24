@@ -6,7 +6,7 @@ Sorting: 160
 
 > Monitorüberwachung, Venen-Zugang, arterieller Zugang, FiO<sub>2</sub> auf SpO<sub>2</sub> > 90% titrieren.
 
-> Antikoagulation mit niedermolekularem Heparin oder Fondaparinux in gewichtsadaptierter Dosierung. Alternativ [Heparinbolus](heparin), dann [Perfusor](heparin) in therapeutischer Dosierung.
+> Antikoagulation mit niedermolekularem Heparin oder Fondaparinux in gewichtsadaptierter Dosierung. Alternativ [Heparinbolus]({filename}Heparin-Perfusor.md), dann [Perfusor]({filename}Heparin-Perfusor.md) in therapeutischer Dosierung.
 
 > Bei Hypotonie Noradrenalin-Perfusor mit einem Ziel-MAP > 65&nbsp;mmHg. Keine forcierte Volumengabe.
 

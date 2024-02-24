@@ -4,7 +4,7 @@ Tags: TBD
 Sorting: 170
 Status: draft
 
-> Großlumigen i.v.-Zugang legen, O2-Gabe mit SpO2-Ziel ≥ 90%.
+> Großlumigen i.v.-Zugang legen, O<sub>2</sub>-Gabe mit SpO<sub>2</sub>-Ziel ≥ 90%.
 
 > Arterieller Zugang linke A. radialis, NIBP am linken Arm.
 

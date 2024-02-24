@@ -4,7 +4,7 @@ Tags: TBD
 Status: published
 Sorting: 150
 
-Bei hämodynamischer Instabilität (Kreislaufstillstand, Schock, anhaltende Hypotonie) weiter mit "[Schwere Lungenembolie](schwere-lungenembolie)".
+Bei hämodynamischer Instabilität (Kreislaufstillstand, Schock, anhaltende Hypotonie) weiter mit "[Schwere Lungenembolie]({filename}Lungenembolie.md)".
 {: class="my-6 p-6 font-semibold text-2xl border-solid border-2"}
 
 > [Klinische Wahrscheinlichkeit](#rGeneva-h) einschätzen.
@@ -13,7 +13,7 @@ Bei hämodynamischer Instabilität (Kreislaufstillstand, Schock, anhaltende Hypo
 
 > Geringe oder mittlere Wahrscheinlichkeit: [D-Dimere](#D-Dimere) bestimmen. Wenn der Wert im Normbereich liegt, ist keine weitere Diagnostik nötig.
 
-> Mittlere oder hohe Wahrscheinlichkeit oder positive D-Dimere: Antikoagulation mit NMH, Fondaparinux oder [Heparin](heparin)-Bolus geben, erst dann weitere Diagnostik.
+> Mittlere oder hohe Wahrscheinlichkeit oder positive D-Dimere: Antikoagulation mit NMH, Fondaparinux oder [Heparin]({filename}Heparin-Perfusor.md)-Bolus geben, erst dann weitere Diagnostik.
 
 > Risikoeinschätzung durch [PESI-Score](#pesi-h), dann ggf. Bestimmung von Troponin und Echokardiographie.
 
@@ -79,7 +79,7 @@ Wenn die klinische Wahrscheinlichkeit für eine Lungenembolie gering ist und all
 
 - Alter < 50 Jahre
 - Puls < 100/min
-- SaO2 > 94%
+- SaO<sub>2</sub> > 94%
 - keine einseitige Beinschwellung
 - keine Hämoptysen
 - kein kürzliches Trauma oder OP

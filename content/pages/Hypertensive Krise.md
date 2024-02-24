@@ -27,7 +27,7 @@ Keine aggressive Therapie, wenn kein Hinweis auf [Endorganschädigung](#endorgan
 >
 > - Intrakranielle Blutung (folgt)
 > - Ischämischer Schlaganfall (folgt)
-> - [Akutes, adrenerges Lungenödem](scape)
+> - [Akutes, adrenerges Lungenödem]({filename}SCAPE.md)
 > - Aortendissektion (folgt)
 > - [Präeklampsie](#praeeklampsie)
 > - [Kokain-/Amphetamintoxizität](#kokain)

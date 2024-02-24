@@ -17,10 +17,16 @@ Am Schluss gibt es in der Regel noch Links zu weiterführender Literatur und Lei
 
 ## Zukunft
 
-Die Site soll mit der Zeit um weitere Checklisten erweitert werden. Da das Projekt vollständig in der Freizeit neben einem Vollzeitjob entwickelt wird, geht das nicht schnell. Wer sich hier konstruktiv engagieren will, ist [herzlich willkommen](/pages/contribute.html).
+Die Site soll mit der Zeit um weitere Checklisten erweitert werden. Da das Projekt vollständig in der Freizeit neben einem Vollzeitjob entwickelt wird, geht das nicht schnell. Wer sich hier konstruktiv engagieren will, ist [herzlich willkommen]({filename}contribute.md).
 
 ## Technik, Datenschutz
 
 Diese Internetseite verwendet keine Cookies. Es werden keine Nutzerdaten erhoben oder gespeichert. Anonymisierte Zugriffsdaten werden für technische Zwecke und zum Benutzer-Zählen maximal 7 Tage gespeichert. Es werden keine Inhalte fremder Anbieter (wie Google Fonts o.ä.) eingebunden.
 
-Wenn Ihr Euch an dem Projekt [inhaltlich beteiligt](/pages/contribute.html), werden Eure persönlichen Daten nur soweit erfasst und gespeichert, wie es für diesen Prozess nötig ist.
+Wenn Ihr Euch an dem Projekt [inhaltlich beteiligt]({filename}contribute.md), werden Eure persönlichen Daten nur soweit erfasst und gespeichert, wie es für diesen Prozess nötig ist.
+
+## Chronik
+
+<!-- - **TODO. Februar 2024:** Neues Kapitel über [Diabetische Ketoazidose]({filename}dka.md), bessere Überschrift ("Schockraum-Checklisten" statt "Schockraum-Spickzettel"). -->
+
+- **Februar 2024:** Nachdem dieses Projekt nur in einem kleinen Kreis genutzt wurde, wird es auf verschiedenen Wegen in der deutsche FOAMEd-Szene bekannt gemacht.

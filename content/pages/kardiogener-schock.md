@@ -13,7 +13,7 @@ Sorting: 130
 
 > Notfalllabor mit Troponin, Blutgruppe, Laktat und arterielle BGA.
 
-> Fokussierte Echokardiographie und [RUSH-Untersuchung](hypotonie#RUSH) durchführen für hämodynamischen Status, Wandbewegungsstörungen und andere mögliche Ursachen.
+> Fokussierte Echokardiographie und [RUSH-Untersuchung]({filename}Hypotonie.md#RUSH) durchführen für hämodynamischen Status, Wandbewegungsstörungen und andere mögliche Ursachen.
 
 > Röntgen-Thorax.
 

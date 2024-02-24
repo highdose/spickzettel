@@ -1,5 +1,5 @@
 AUTHOR = "Johannes Ammon"
-SITENAME = "Schockraum-Spickzettel"
+SITENAME = "Schockraum-Checklisten"
 SITEURL = ""
 
 PATH = "content"
@@ -7,12 +7,8 @@ THEME = "theme"
 TIMEZONE = "Europe/Berlin"
 STATIC_PATHS = ["static"]
 EXTRA_PATH_METADATA = {
-    "static/android-chrome-192x192.png": {
-        "path": "android-chrome-192x192.png"
-    },
-    "static/android-chrome-512x512.png": {
-        "path": "android-chrome-512x512.png"
-    },
+    "static/android-chrome-192x192.png": {"path": "android-chrome-192x192.png"},
+    "static/android-chrome-512x512.png": {"path": "android-chrome-512x512.png"},
     "static/apple-touch-icon.png": {"path": "apple-touch-icon.png"},
     "static/favicon-16x16.png": {"path": "favicon-16x16.png"},
     "static/favicon-32x32.png": {"path": "favicon-32x32.png"},

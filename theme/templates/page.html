@@ -46,7 +46,7 @@
 <article class="content mt-2 px-2 md:text-lg">
   {{ page.content }}
 
-  {% if page.modified %}
+  {% if page.modified and page.url %}
   <p class="mt-4 text-right text-xs text-gray-500">
     Letzte Überarbeitung: {{ page.locale_modified }}
   </p>

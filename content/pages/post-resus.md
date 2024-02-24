@@ -3,7 +3,7 @@ Slug: post-resus
 Authors: Johannes Ammon
 Status: published
 Tags: TBD
-Sorting: 520
+Sorting: 530
 
 > Ggf. Intubation oder supraglottischen Atemweg, Tubuslagekontrolle durch etCO<sub>2</sub>. SaO<sub>2</sub> 94–98% und Normokapnie anstreben.
 
@@ -16,7 +16,7 @@ Verlegung ins Herzkatheterlabor bei STEMI, STEMI-Äquivalent oder wenn die Ursac
 
 > Klinische Untersuchung (u.a. Hirnstammreflexe, motorische Reaktion, Verletzungen? Zeichen von Intoxikation? Hypothermie?)
 
-> Notfallsonographie ([RUSH](hypotonie#RUSH) oder eFAST)
+> Notfallsonographie ([RUSH]({filename}Hypotonie.md#RUSH) oder eFAST)
 
 > Schädel-CT bei fehlendem Hinweis auf kardiale Genese oder wenn in der Coronarangiographie keine adäquate Ursache gefunden wurde. <br>
 Ggf. CT-Angio des Thorax ("Triple-Rule-Out") andernfalls Rö-Thorax.

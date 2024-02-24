@@ -16,7 +16,7 @@ zur Grundlage therapeutischer Entscheidungen gemacht werden.
 
 E-Mail-Adresse: [high-dose@high-dose.net](mailto:high-dose@high-dose.net)
 
-Verbesserungsvorschläge und inhaltliche Beiträge sind immer [willkommen](contribute).
+Verbesserungsvorschläge und inhaltliche Beiträge sind immer [willkommen]({filename}contribute.md).
 
 ## Urheberrecht {: #urheberrecht}
 

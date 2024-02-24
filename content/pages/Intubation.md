@@ -146,7 +146,7 @@ Sorting: 500
 
 - Sorge für eine angemessene Präoxygenierung, z.B. durch NIV mit FiO<sub>2</sub> 100%, CPAP/ASB, PEEP 5&nbsp;mbar, ASB 5–7&nbsp;mbar.
 - Großkalibriger peripherer Zugang.
-- Bei Hypotonie zuerst Abklärung und Behandlung der Ursachen ([RUSH-Untersuchung](Hypotonie.html#RUSH)). Bei Narkoseeinleitung wird sich die Hypotonie i.d.R. akut verschlechtern. Deshalb – wenn der Zustand des Patienten es erlaubt – noch vor der Intubation Volumendefizit ausgleichen, Blutprodukte geben,
+- Bei Hypotonie zuerst Abklärung und Behandlung der Ursachen ([RUSH-Untersuchung]({filename}Hypotonie.md#RUSH)). Bei Narkoseeinleitung wird sich die Hypotonie i.d.R. akut verschlechtern. Deshalb – wenn der Zustand des Patienten es erlaubt – noch vor der Intubation Volumendefizit ausgleichen, Blutprodukte geben,
 - Wenn möglich Pneumothorax entlasten, Pleura- oder Perikarderguss drainieren. Diese Patienten können sich durch die Überdruckbeatmung akut verschlechtern.
 
 ## Auf hämodynamische Verschlechterung gefasst sein
@@ -160,4 +160,4 @@ Sorting: 500
 - Bei hypotonen Patienten sind geringere Dosierungen der Sedativa notwendig. Das Muskelrelaxans andererseits braucht eine höhere Dosierung, auch um eine kurze Anschlagszeit zu gewährleisten.
 - Wenn eine Zwischenbeatmung erforderlich ist, mit niedrigem Tidalvolumen und einer Frequenz von 6–8/min beatmen. Mit Kapnographie die Effektivität der Beatmung überwachen.
 
-Weiter mit [Post-Intubations-Checkliste](post-intubation.html)
+Weiter mit [Post-Intubations-Checkliste]({filename}Post-Intubation.md)

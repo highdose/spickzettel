@@ -49,11 +49,11 @@ Dies sind die wesentlichen Schockformen mit US-Befunden:
 
 **Hypovoläm**: Herzhöhlen wenig gefüllt, vor allem RV und RA. V.c.i. schmal und atemkollaptisch. Im Abdomen evtl. freie Flüssigkeit (Extrauteringravidität, intraabdominelle Blutung). Evtl. Bauchaortenaneurysma, Aortendissektion.
 
-**[Kardiogen](kardiogener-schock)**: Im Echo dilatierte Herzhöhlen, niedrige LVEF, evtl. Klappenvitien (evtl. kardiologisches Konsil!). V.c.i. prall, wenig atembeweglich. Evtl. mäßiger Aszites. Über der Lunge B-Linien, Pleuraerguss.
+**[Kardiogen]({filename}kardiogener-schock.md)**: Im Echo dilatierte Herzhöhlen, niedrige LVEF, evtl. Klappenvitien (evtl. kardiologisches Konsil!). V.c.i. prall, wenig atembeweglich. Evtl. mäßiger Aszites. Über der Lunge B-Linien, Pleuraerguss.
 
-**Obstruktiv**: Bei [Lungenembolie](lungenembolie) RV-Dilatation, bei Perikardtamponade direkter Nachweis des Erguss, bei Pneumothorax fehlendes Lungengleiten, A-Linie. Bei allen pralle, wenig atembewegliche V.c.i.
+**Obstruktiv**: Bei [Lungenembolie]({filename}Lungenembolie.md) RV-Dilatation, bei Perikardtamponade direkter Nachweis des Erguss, bei Pneumothorax fehlendes Lungengleiten, A-Linie. Bei allen pralle, wenig atembewegliche V.c.i.
 
-**Distributiv** ([Sepsis](septischer-schock)): Hyperdyname Herzaktion, in der späten Sepsis auch eingeschränkte LVEF. V.c.i. normal oder kollaptisch. Im Abdomen Blick auf Gallenblase und Nieren wegen Sepsisfocus. Über der Lunge Pleuraerguss (Empyem?), konsolidierte Lunge (Pneumonie) oder B-Linien (ARDS).
+**Distributiv** ([Sepsis]({filename}septischer-schock.md)): Hyperdyname Herzaktion, in der späten Sepsis auch eingeschränkte LVEF. V.c.i. normal oder kollaptisch. Im Abdomen Blick auf Gallenblase und Nieren wegen Sepsisfocus. Über der Lunge Pleuraerguss (Empyem?), konsolidierte Lunge (Pneumonie) oder B-Linien (ARDS).
 
 ## Weitere Anschallungen
 
